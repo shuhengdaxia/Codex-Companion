@@ -82,7 +82,7 @@ public class MainForm : Form
 
     private void InitializeForm()
     {
-        Text = "Codex Companion";
+        Text = "codex官方中转站";
         Icon = System.Drawing.Icon.ExtractAssociatedIcon(Application.ExecutablePath);
         StartPosition = FormStartPosition.CenterScreen;
         Font = new Font("Segoe UI", 13F, FontStyle.Regular, GraphicsUnit.Pixel);
@@ -159,7 +159,7 @@ public class MainForm : Form
     private Control BuildHeader()
     {
         var panel = new Panel { Dock = DockStyle.Fill, Margin = Padding.Empty, BackColor = pageBack };
-        var brand = CreateLabel("Codex Relay 官方中转", 13, accent);
+        var brand = CreateLabel("codex官方中转站", 13, accent);
         brand.Name = "brandLabel";
         brand.Font = new Font(Font.FontFamily, 13, FontStyle.Bold, GraphicsUnit.Pixel);
         var topbar = new Panel { Dock = DockStyle.Fill, Margin = Padding.Empty };

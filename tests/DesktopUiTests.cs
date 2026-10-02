@@ -123,13 +123,13 @@ internal static class DesktopUiTests
         }
         Control[] brands = form.Controls.Find("brandLabel", true);
         Assert(brands.Length == 1 && brands[0].Visible && brands[0].Height >= 18,
-            "Relay branding must remain visible in the compact header.");
+            "Branding must remain visible in the compact header.");
         using (var graphics = brands[0].CreateGraphics())
             Assert(graphics.MeasureString(brands[0].Text, brands[0].Font).Width <= brands[0].Width,
-                "The compact header must display the complete relay title.");
+                "The compact header must display the complete title.");
         Label domain = FindLabel(form, new Uri(AppController.OfficialRelayUrl).Host);
-        Assert(form.Text == "Codex Companion" && brands[0].Text == "Codex Relay 官方中转" && domain != null && domain.Visible,
-            "Window title, relay title and official domain must remain accurate.");
+        Assert(form.Text == "codex官方中转站" && brands[0].Text == "codex官方中转站" && domain != null && domain.Visible,
+            "Window title, header title and official domain must remain accurate.");
         using (var graphics = domain.CreateGraphics())
             Assert(graphics.MeasureString(domain.Text, domain.Font).Width <= domain.Width,
                 "The compact header must display the complete official domain.");
