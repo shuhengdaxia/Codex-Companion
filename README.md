@@ -103,8 +103,8 @@ powershell -NoProfile -File .\build.ps1 -Test
 
 ```powershell
 powershell -NoProfile -File .\build.ps1 -Test -TestSuite update -Package
-git tag v0.1.2
-git push origin v0.1.2
+git tag v0.1.1
+git push origin v0.1.1
 ```
 
 本工具只负责客户端配置，无法补足 mid-web 网关尚未实现的 Responses 协议能力。真实模型调用、支付和上游兼容性需要在 mid-web 单独验证。
