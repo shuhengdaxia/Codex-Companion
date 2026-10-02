@@ -85,6 +85,7 @@ public class MainForm : Form
         Text = "codex官方中转站";
         Icon = System.Drawing.Icon.ExtractAssociatedIcon(Application.ExecutablePath);
         StartPosition = FormStartPosition.CenterScreen;
+        MaximizeBox = false;
         Font = new Font("Segoe UI", 13F, FontStyle.Regular, GraphicsUnit.Pixel);
         BackColor = pageBack;
         ForeColor = textColor;
