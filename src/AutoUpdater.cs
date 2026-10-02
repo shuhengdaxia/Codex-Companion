@@ -39,6 +39,7 @@ internal static class AutoUpdater
     internal const string HashName = "CodexCompanion.exe.sha256";
     internal const string Repository = "shuhengdaxia/Codex-Companion";
     internal const string ReleaseApi = "https://api.github.com/repos/" + Repository + "/releases/latest";
+    internal const string ReleasePage = "https://github.com/" + Repository + "/releases/latest";
     private const long MaximumExecutableBytes = 64L * 1024 * 1024;
 
     internal static Version CurrentVersion { get { return Assembly.GetExecutingAssembly().GetName().Version; } }
@@ -89,25 +90,76 @@ internal static class AutoUpdater
             throw new InvalidDataException("更新资产地址不属于指定仓库。");
     }
 
+    internal static Version ParseReleasePageUrl(Uri uri)
+    {
+        string prefix = "/" + Repository + "/releases/tag/";
+        if (uri == null || uri.Scheme != Uri.UriSchemeHttps || uri.Host != "github.com" || uri.Port != 443 ||
+            !String.IsNullOrEmpty(uri.UserInfo) || !String.IsNullOrEmpty(uri.Query) || !String.IsNullOrEmpty(uri.Fragment) ||
+            !uri.AbsolutePath.StartsWith(prefix, StringComparison.Ordinal))
+            throw new InvalidDataException("最新版本页面不属于指定仓库。");
+        string tag = uri.AbsolutePath.Substring(prefix.Length);
+        Version version = ParseReleaseVersion(tag);
+        if (uri.AbsolutePath != prefix + "v" + version.ToString())
+            throw new InvalidDataException("最新版本页面地址无效。");
+        return version;
+    }
+
     internal static async Task<PendingUpdate> CheckAndStageAsync()
     {
         using (var client = NewClient())
         {
-            string json = await GetTextAsync(client, ReleaseApi, 512 * 1024);
-            UpdateRelease release = new JavaScriptSerializer().Deserialize<UpdateRelease>(json);
-            Version version = ParseReleaseVersion(release == null ? null : release.tag_name);
+            UpdateRelease release = null;
+            Version version = null;
+            long executableBytes;
+            string executableUrl;
+            string hashUrl;
+            try
+            {
+                string json = await GetTextAsync(client, ReleaseApi, 512 * 1024);
+                release = new JavaScriptSerializer().Deserialize<UpdateRelease>(json);
+                version = ParseReleaseVersion(release == null ? null : release.tag_name);
+            }
+            catch (HttpRequestException)
+            {
+                // C# 5 does not allow await inside a catch clause.
+            }
+            if (version == null) version = await GetLatestReleasePageVersionAsync(client);
             if (version <= CurrentVersion) return null;
-            UpdateAsset executable = FindAsset(release, ExecutableName);
-            UpdateAsset hashAsset = FindAsset(release, HashName);
-            if (executable.size < 1 || executable.size > MaximumExecutableBytes || hashAsset.size < 1 || hashAsset.size > 256)
-                throw new InvalidDataException("更新资产大小无效。");
-            string expectedHash = ParseHash(await GetTextAsync(client, hashAsset.browser_download_url, 256));
+            string tag = "v" + version.ToString();
+            if (release == null)
+            {
+                executableBytes = -1;
+                executableUrl = "https://github.com/" + Repository + "/releases/download/" + tag + "/" + ExecutableName;
+                hashUrl = "https://github.com/" + Repository + "/releases/download/" + tag + "/" + HashName;
+                ValidateAssetUrl(executableUrl, tag, ExecutableName);
+                ValidateAssetUrl(hashUrl, tag, HashName);
+            }
+            else
+            {
+                UpdateAsset executable = FindAsset(release, ExecutableName);
+                UpdateAsset hashAsset = FindAsset(release, HashName);
+                if (executable.size < 1 || executable.size > MaximumExecutableBytes || hashAsset.size < 1 || hashAsset.size > 256)
+                    throw new InvalidDataException("更新资产大小无效。");
+                executableBytes = executable.size;
+                executableUrl = executable.browser_download_url;
+                hashUrl = hashAsset.browser_download_url;
+            }
+            string expectedHash = ParseHash(await GetTextAsync(client, hashUrl, 256));
             string staging = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData),
                 "CodexCompanion", "updates", version.ToString());
             Directory.CreateDirectory(staging);
             string destination = await StageVerifiedAsync(
-                client, executable.browser_download_url, staging, executable.size, expectedHash);
+                client, executableUrl, staging, executableBytes, expectedHash);
             return new PendingUpdate { Version = version, FilePath = destination, Sha256 = expectedHash };
+        }
+    }
+
+    private static async Task<Version> GetLatestReleasePageVersionAsync(HttpClient client)
+    {
+        using (HttpResponseMessage response = await client.GetAsync(ReleasePage, HttpCompletionOption.ResponseHeadersRead))
+        {
+            response.EnsureSuccessStatusCode();
+            return ParseReleasePageUrl(response.RequestMessage == null ? null : response.RequestMessage.RequestUri);
         }
     }
 
@@ -146,11 +198,18 @@ internal static class AutoUpdater
 
     internal static async Task DownloadVerifiedAsync(HttpClient client, string url, string path, long expectedBytes, string expectedHash)
     {
+        if (expectedBytes != -1 && (expectedBytes < 1 || expectedBytes > MaximumExecutableBytes))
+            throw new InvalidDataException("更新文件大小无效。");
         using (HttpResponseMessage response = await client.GetAsync(url, HttpCompletionOption.ResponseHeadersRead))
         {
             response.EnsureSuccessStatusCode();
-            if (response.Content.Headers.ContentLength.HasValue && response.Content.Headers.ContentLength.Value != expectedBytes)
-                throw new InvalidDataException("更新文件大小与发布信息不符。");
+            if (response.Content.Headers.ContentLength.HasValue)
+            {
+                long contentBytes = response.Content.Headers.ContentLength.Value;
+                if (contentBytes < 1 || contentBytes > MaximumExecutableBytes || (expectedBytes != -1 && contentBytes != expectedBytes))
+                    throw new InvalidDataException("更新文件大小与发布信息不符。");
+                if (expectedBytes == -1) expectedBytes = contentBytes;
+            }
             using (Stream input = await response.Content.ReadAsStreamAsync())
             using (FileStream output = new FileStream(path, FileMode.Create, FileAccess.Write, FileShare.None))
             using (SHA256 sha = SHA256.Create())
@@ -161,13 +220,14 @@ internal static class AutoUpdater
                 while ((count = await input.ReadAsync(buffer, 0, buffer.Length)) > 0)
                 {
                     total += count;
-                    if (total > MaximumExecutableBytes || total > expectedBytes)
+                    if (total > MaximumExecutableBytes || (expectedBytes != -1 && total > expectedBytes))
                         throw new InvalidDataException("更新文件超出发布大小。");
                     sha.TransformBlock(buffer, 0, count, buffer, 0);
                     await output.WriteAsync(buffer, 0, count);
                 }
                 sha.TransformFinalBlock(new byte[0], 0, 0);
-                if (total != expectedBytes || !String.Equals(ToHex(sha.Hash), expectedHash, StringComparison.OrdinalIgnoreCase))
+                if (total < 1 || (expectedBytes != -1 && total != expectedBytes) ||
+                    !String.Equals(ToHex(sha.Hash), expectedHash, StringComparison.OrdinalIgnoreCase))
                     throw new InvalidDataException("更新文件校验失败。");
             }
         }
@@ -211,7 +271,8 @@ internal static class AutoUpdater
     private static bool IsVerifiedFile(string path, long expectedBytes, string expectedHash)
     {
         var file = new FileInfo(path);
-        if (!file.Exists || file.Length != expectedBytes) return false;
+        if (!file.Exists || file.Length < 1 || file.Length > MaximumExecutableBytes ||
+            (expectedBytes != -1 && file.Length != expectedBytes)) return false;
         using (FileStream input = new FileStream(path, FileMode.Open, FileAccess.Read, FileShare.Read))
         using (SHA256 sha = SHA256.Create())
             return String.Equals(ToHex(sha.ComputeHash(input)), expectedHash, StringComparison.OrdinalIgnoreCase);
