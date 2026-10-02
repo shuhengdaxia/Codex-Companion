@@ -1,0 +1,45 @@
+MidWeb Codex QQ-style skin support
+
+This module was implemented as original code for this project. It reads and injects
+the bundled qq-skin.css resource through a local 127.0.0.1 Chrome DevTools
+Protocol endpoint started for the official Codex desktop app.
+
+Design and selector references reviewed with user authorization:
+
+1. Codex-QQ-Skin
+   Repository: https://github.com/zhulin025/Codex-QQ-Skin
+   Fixed reference commit: 6ba087781c7e11a9176a4aced607d0e3ff10a5ed
+   Files reviewed:
+   - scripts/windows/start-qq-skin-windows.ps1
+   - scripts/windows/common-windows.ps1
+   - scripts/injector.mjs
+   - assets/qq-skin.css
+
+   No external scripts from that project are run by this module. The bundled CSS
+   in this project is a simplified original QQ blue-silver skin, not a copy of
+   the upstream stylesheet.
+
+2. codexthemes.ai
+   Reviewed as a visual and product reference with user authorization.
+
+No third-party runtime dependency is added by this module.
+
+CodexThemes gallery integration
+
+The gallery includes a snapshot of public catalog metadata, author previews,
+and publicly downloadable theme packages from https://codexthemes.ai/ and its
+CDN. Downloaded themes remain
+the work of their respective authors; their names and detail pages are shown
+in the gallery. Catalog availability and installation support are controlled
+by the upstream website. Theme packages and previews are distributed in the
+software's companion theme-gallery directory, separate from the EXE.
+The assets/theme-gallery/bundle-inventory.json file records each source URL,
+file size, and SHA-256 hash; the catalog pages retain author attribution.
+The snapshot contains 70 public packages and 126 previews downloaded on
+2026-09-20. Four archive-only themes and 52 design references do not provide
+an anonymously installable package, and remain preview/reference entries.
+
+Public interoperability references:
+https://github.com/codexthemes/skills/blob/main/skills/codex-theme-finder/references/search-api.md
+https://github.com/codexthemes/skills/blob/main/skills/codex-theme-installer/references/download-api.md
+https://github.com/codexthemes/skills/blob/main/skills/codex-theme-creator/references/theme-schema.md

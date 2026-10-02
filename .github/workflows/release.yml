@@ -1,0 +1,41 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-2022
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check tag matches version
+        shell: pwsh
+        run: |
+          $version = (Get-Content version.txt -Raw).Trim()
+          if ($env:GITHUB_REF_NAME -ne "v$version") { throw 'Tag and version.txt differ.' }
+      - name: Build, test updater, and package
+        shell: pwsh
+        run: .\build.ps1 -Test -TestSuite update -Package
+      - name: Verify assembly version
+        shell: pwsh
+        run: |
+          $file = 'bin\CodexCompanion.exe'
+          if (([Reflection.AssemblyName]::GetAssemblyName((Resolve-Path $file)).Version.ToString(3)) -ne (Get-Content version.txt -Raw).Trim()) { throw 'Assembly version mismatch.' }
+      - name: Verify relay contract
+        shell: pwsh
+        run: |
+          & .\.build\Regression.exe (Join-Path $env:RUNNER_TEMP 'companion-relay-tests') --relay
+          if ($LASTEXITCODE -ne 0) { throw 'Relay tests failed.' }
+      - name: Publish release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/CodexCompanion.exe
+            dist/CodexCompanion.exe.sha256
+            dist/CodexCompanion-Windows.zip
+          generate_release_notes: true

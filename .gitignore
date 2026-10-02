@@ -1,0 +1,14 @@
+.build/
+.build-check/
+bin/
+dist/
+*.user
+*.log
+test-output/
+temp/
+output/
+theme-imports/
+assets/theme-gallery/*.codex-theme
+assets/theme-gallery/*.bin
+assets/theme-gallery/*.zip
+assets/theme-gallery/dream-skin-*

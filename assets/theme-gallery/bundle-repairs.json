@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "repairs": [
+    {
+      "galleryId": "ink-blossom",
+      "sha256": "d300a705f4823a2d56a4e0a6e688e674a0e5c29cae414b1ae1db9f15612323d1",
+      "artMimeType": "image/jpeg"
+    },
+    {
+      "galleryId": "zhangjie-sky",
+      "sha256": "bfd713c1f01b167bc745ab09a152438ef7e5b2dd05e1d4964e6e2a32758703dd",
+      "artMimeType": "image/jpeg"
+    }
+  ]
+}

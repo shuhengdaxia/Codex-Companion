@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "bindings": [
+    {
+      "galleryId": "theme-1786020592613",
+      "packageId": "webline-vanguard",
+      "downloadUrl": "https://codexthemes.ai/api/themes/theme-1786020592613/download",
+      "sha256": "5bf06d3b7828f4b46965a86a313ddffc4e010a532683c11b8838c61543975028"
+    },
+    {
+      "galleryId": "theme-1786017138917",
+      "packageId": "webline-vanguard",
+      "downloadUrl": "https://codexthemes.ai/api/themes/theme-1786017138917/download",
+      "sha256": "abdcf8dd43435058c35f3d89010c68e949a07bdbe1d8077a38dbc08f810720fd"
+    },
+    {
+      "galleryId": "miku",
+      "packageId": "miku-shuimo",
+      "downloadUrl": "https://codexthemes.ai/api/themes/miku/download",
+      "sha256": "47507b3f9c9dc81dc8a5a13150392daa9bbd50289df94d67dfe647df2a9f3c89"
+    },
+    {
+      "galleryId": "theme-1786780354717",
+      "packageId": "custom-bocchi-gotoh",
+      "downloadUrl": "https://codexthemes.ai/api/themes/theme-1786780354717/download",
+      "sha256": "921d9e9705e5f4cc2135ebc4a041c9a2441224d7094ef1929405c463d9694842"
+    },
+    {
+      "galleryId": "gandum",
+      "packageId": "custom-1784518930245",
+      "downloadUrl": "https://codexthemes.ai/api/themes/gandum/download",
+      "sha256": "7f4bfd9ecbfaae1089d7d2fece66a7499e0c19135e99af1d66b49a7cbd24122c"
+    }
+  ]
+}

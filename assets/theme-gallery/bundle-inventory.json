@@ -1,0 +1,2004 @@
+{
+  "schemaVersion": 1,
+  "downloadedAt": "2026-09-20T11:41:19.362429+00:00",
+  "source": "https://codexthemes.ai/",
+  "catalogCount": 126,
+  "packageCount": 74,
+  "previewCount": 126,
+  "resources": [
+    {
+      "id": "gpt",
+      "kind": "preview",
+      "file": "preview-f2ac583082e8da04035cf7e05e7fcce4d7ef8edaf767f612c6dba1e30126287a.bin",
+      "bytes": 2503993,
+      "sha256": "28abafd2031d3fb96010fc2f04a5988e767e724bb0301f1f71c7c720d2ae1c3c",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/9164d1f8-da6c-4532-b7e5-ed0d88cbd68b/preview.png"
+    },
+    {
+      "id": "gpt",
+      "kind": "package",
+      "file": "package-9a90a1e91990a87ae768ab16308887b272c78c36395880ab2419109fafb9eaa4.codex-theme",
+      "bytes": 5003673,
+      "sha256": "27f4852940768467160761e38c19b2be7f943b9afeb39e6701d0c4e1fa6a0094",
+      "sourceUrl": "https://codexthemes.ai/api/themes/gpt/download"
+    },
+    {
+      "id": "2-0",
+      "kind": "preview",
+      "file": "preview-c0a57dfd6bc81fb2bb9c67091894bf77eb877a7d1b8f39e7b7d998a3531c2e52.bin",
+      "bytes": 846215,
+      "sha256": "f650f4560ba3e0e9170973636baf0ff57bb7825889604b8882f5670f63dd481b",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/844addab-8d4d-4150-a682-c89eb84b6085/preview.png"
+    },
+    {
+      "id": "2-0",
+      "kind": "package",
+      "file": "package-23832ab545be0a5f8db31b423d91adfee05e8492c8f433e26a977be69687e204.codex-theme",
+      "bytes": 1392661,
+      "sha256": "4afb4e5c68f0ef3531e52b36df4c015ae2da357783c4d8ec1c4bc1efe570634a",
+      "sourceUrl": "https://codexthemes.ai/api/themes/2-0/download"
+    },
+    {
+      "id": "theme-1789495447972",
+      "kind": "preview",
+      "file": "preview-b2aa71c56bca0bc9cb282e72292078d815349065f3cf8ae70561c54c2d0755e2.bin",
+      "bytes": 798874,
+      "sha256": "7b5d034125f7da452ee684c88609b46637dff9f0cae618aa9a6dc8128d8426d8",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/43a3f565-bcda-4794-af5e-e6f993173bb3/preview.png"
+    },
+    {
+      "id": "theme-1789495447972",
+      "kind": "package",
+      "file": "package-cbb60c20339f06bef9792fb41c055fcaf6183075b66e606e9379234ab07f0877.codex-theme",
+      "bytes": 1326221,
+      "sha256": "eb21c13bd0e143fbed77d166ee1b82ade3e4085e62fe03861378732efaa0c020",
+      "sourceUrl": "https://codexthemes.ai/api/themes/theme-1789495447972/download"
+    },
+    {
+      "id": "ai",
+      "kind": "preview",
+      "file": "preview-24b2cf4f1f4a26f210e5588c4db3035bdbf8f3e4da95eaca61cec5dfab568a16.bin",
+      "bytes": 405817,
+      "sha256": "05a775702474edaa42b3462ee3f5ddd9f941479791c8735ec191ec24dbf083df",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/34d62a58-3ee8-414d-81a7-d01bda247817/preview.png"
+    },
+    {
+      "id": "ai",
+      "kind": "package",
+      "file": "package-0e27dcc0197f1627af4fb5af664e7302167cbcb40df204db2c97c55690f71daa.codex-theme",
+      "bytes": 725608,
+      "sha256": "1ae328cad5f9347fcdbaed0a289da3e9fd88d0bc06f4f609928d2e5f90f80c14",
+      "sourceUrl": "https://codexthemes.ai/api/themes/ai/download"
+    },
+    {
+      "id": "neon-kingdom-stage",
+      "kind": "preview",
+      "file": "preview-983b8019cbda039ca6132f9c00937b30ddcd6dd387146d6b6bca5a7b88ba9cfa.bin",
+      "bytes": 999054,
+      "sha256": "cf192cbc266d4b29f78948d0ddef4f2797a8b15a091fc97ce47ce9983f94c9e9",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/18ab6c06-25ec-4f8c-8d2f-8400fc81386f/preview.png"
+    },
+    {
+      "id": "neon-kingdom-stage",
+      "kind": "package",
+      "file": "package-bcfe9beeac5305fd56651207c7840d629b70044a347fad7caa6fbbeb9e462ea9.codex-theme",
+      "bytes": 2345242,
+      "sha256": "a2766852bc9fe45aaff435faac07e488e7a987745d4ad9482c1e138307813b6f",
+      "sourceUrl": "https://codexthemes.ai/api/themes/neon-kingdom-stage/download"
+    },
+    {
+      "id": "kimono-new-year",
+      "kind": "preview",
+      "file": "preview-9970a90ba9dd57b2cb52d1a4e2c58c8e5c9ad58cdd127ca48a7816b3d5eceb42.bin",
+      "bytes": 714533,
+      "sha256": "ddd9af28d88d200e5ee88af31bf5316024b260a718b50b96fae274cad05c0b5e",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/88c9cf91-13e1-41c0-8c5d-921cd8871cf4/preview.png"
+    },
+    {
+      "id": "kimono-new-year",
+      "kind": "package",
+      "file": "package-349f72d0ba09a97459dc259776cc4db1d8f324d774f66bba9601f5951586d0e6.codex-theme",
+      "bytes": 8873517,
+      "sha256": "564e11f1f336dde93b90cc85e5b972b3b241cdf6a646faaf3a69633a99945dff",
+      "sourceUrl": "https://codexthemes.ai/api/themes/kimono-new-year/download"
+    },
+    {
+      "id": "jimengzhao-astralparty",
+      "kind": "preview",
+      "file": "preview-b8c8caabf6a225aa24cef04ca2c85bc0b8426e68b53f08a87a563bb8ab39516b.bin",
+      "bytes": 300367,
+      "sha256": "4f1833cf85aceec42a01eeb3069a148aae34b05834b792e8c4e6dd8a36086528",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/7d8ef986-72c0-4153-853d-3b75ce36be38/preview.png"
+    },
+    {
+      "id": "jimengzhao-astralparty",
+      "kind": "package",
+      "file": "package-5ef44c3f02e0a9f9a40b334bd460075e4d6f6a8c04d93e7bcfa295b7314a95e8.codex-theme",
+      "bytes": 2057801,
+      "sha256": "d5cf855719a8541ab8495e3f7dfce2acaaac2a5f03b5058105bc230aea0db689",
+      "sourceUrl": "https://codexthemes.ai/api/themes/jimengzhao-astralparty/download"
+    },
+    {
+      "id": "blue-hour-silhouette",
+      "kind": "preview",
+      "file": "preview-91e8e1bdfaa6a2edc95a1b8a12c1297f25e666123f68bc26c60bf81d8d6cd76e.bin",
+      "bytes": 920454,
+      "sha256": "f33f364963f2907a016e78810032f8846343c4005613cfacd018d024999fb733",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/cc3d5b1c-9c1d-4a45-92a6-91803e7d17f6/preview.png"
+    },
+    {
+      "id": "blue-hour-silhouette",
+      "kind": "package",
+      "file": "package-8b08bd17f564c20e8337532b21d9cee1a7365aa54feeb5fa550ce3221d32a4d9.codex-theme",
+      "bytes": 3734688,
+      "sha256": "36ae36148b2c78c137b469ccabf6726515d6045e09b8fe3bd001b8fe879f4582",
+      "sourceUrl": "https://codexthemes.ai/api/themes/blue-hour-silhouette/download"
+    },
+    {
+      "id": "nine-tail-starlight",
+      "kind": "preview",
+      "file": "preview-55f6ffc77a2be1f5e51d29a9a9d6b3ce396d32cec408e4c89ab5d7a2d4c1e411.bin",
+      "bytes": 1075373,
+      "sha256": "74dcec503f986e1ecac594b7712e1ecad1cf55de2b84d8ca3f49f5ea1ebb2400",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/d7762f6f-4f83-4894-bb3f-6b96e584d572/preview.png"
+    },
+    {
+      "id": "nine-tail-starlight",
+      "kind": "package",
+      "file": "package-8e769fb87ab7edaff453dcc050120a0b55f0b3c668c97664e702788ff1e1ebf0.codex-theme",
+      "bytes": 2991225,
+      "sha256": "22c74222d5621fd90d2bbe072251b2de432a67ee3ad21d01b5e09c39c0c5e641",
+      "sourceUrl": "https://codexthemes.ai/api/themes/nine-tail-starlight/download"
+    },
+    {
+      "id": "precision-drop-flight-ops",
+      "kind": "preview",
+      "file": "preview-fae489b536cc259bb0bc240626ff6933582c926450fa0369a8caeec4e361f5b1.bin",
+      "bytes": 833959,
+      "sha256": "92fe8d3e237de2ae0ce8714726451ac79930954ca2d53341b1c859155c62db0d",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/4fa37c43-1ff3-41f4-a7d2-60baea160651/preview.png"
+    },
+    {
+      "id": "precision-drop-flight-ops",
+      "kind": "package",
+      "file": "package-d35802dcaf1e08bbd7d4e5b350beb562e8d4e0abfc77306d651c1ced0a6865c5.codex-theme",
+      "bytes": 3712742,
+      "sha256": "fda73108f7b4b890fbc9fed45366d04a0a03d14120e49036e9e63c11b89a0a38",
+      "sourceUrl": "https://codexthemes.ai/api/themes/precision-drop-flight-ops/download"
+    },
+    {
+      "id": "co2-blue-sky-baby",
+      "kind": "preview",
+      "file": "preview-53861a19a5e1f68595863a0189b0b8d61516ace3542ac5c43dcb55d94d33438d.bin",
+      "bytes": 670529,
+      "sha256": "9b025ea5ece9eb639f18f450cc7a8eb2c2ce5903c5a0f5c918780ac73dc9c79c",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/b4a40862-4b90-4b60-866b-0db06bc53f3d/preview.png"
+    },
+    {
+      "id": "co2-blue-sky-baby",
+      "kind": "package",
+      "file": "package-a137a68683ceeb9e31ac4a4340e5f2d2d8db667e31755c924f29a1b09727e126.codex-theme",
+      "bytes": 1240714,
+      "sha256": "a24bdcf9573a9482ed5cc2bac35d6123b7e5531cfdf8e995ddc1ecf4c2716193",
+      "sourceUrl": "https://codexthemes.ai/api/themes/co2-blue-sky-baby/download"
+    },
+    {
+      "id": "theme-1786878605183",
+      "kind": "preview",
+      "file": "preview-4ae87e0cd4c8f2024c504b11ec02a6581dfeb558e91873a687f79a8a1cfa2154.bin",
+      "bytes": 847272,
+      "sha256": "427b5f8199fefaea975e21bba6a3442e333c189c994dafab50f2c7dba43a64be",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/d5ea1cda-e909-4de7-a3a9-10107a3262a9/preview.png"
+    },
+    {
+      "id": "theme-1786878605183",
+      "kind": "package",
+      "file": "package-7e99114ca38c9f5c8ed020de9c6835a2f9017c2904d0fddc52c47c3563e199d6.codex-theme",
+      "bytes": 4869352,
+      "sha256": "73ffa3d0ee26e6504dcf0ee14b8552d3d3f13b33b84dcff6c60f52503c923654",
+      "sourceUrl": "https://codexthemes.ai/api/themes/theme-1786878605183/download"
+    },
+    {
+      "id": "github-noir",
+      "kind": "preview",
+      "file": "preview-16af15aca4ac28984ef57131d27eb00f9978b185dbf42a003951a2cb269f60ca.bin",
+      "bytes": 189074,
+      "sha256": "3be833277afe55ee22e6f7741a25605da1430cf751d2c2dd1ceceedefa7803fd",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/461342ed-17ec-41b7-b182-f26c72d6df79/preview.png"
+    },
+    {
+      "id": "github-noir",
+      "kind": "package",
+      "file": "package-61e3650ec255a11563c942cc4f1a2b0482dad31ef2aac5086ff0fe6577b2dd30.codex-theme",
+      "bytes": 285985,
+      "sha256": "7f0265b5734395468fae783de40df65eb4f55f29dd40d1d9b48212e3d11495ff",
+      "sourceUrl": "https://codexthemes.ai/api/themes/github-noir/download"
+    },
+    {
+      "id": "luffy-sky-liberation",
+      "kind": "preview",
+      "file": "preview-7cc148fe8dc4660bd382ac3ce66c583d442f84bc69eb6fac70cd444b7d5b27f2.bin",
+      "bytes": 923517,
+      "sha256": "a1e08787d2dc237836e47fa05df4215cdc916e6b4ec20ff4c0bb2e9233d9278e",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/4ccd0d88-7f3b-4456-b5c1-171b94096b24/preview.png"
+    },
+    {
+      "id": "luffy-sky-liberation",
+      "kind": "package",
+      "file": "package-731b7723067e06ffc7cefd1852bd0164971ecc08e961817072a5dae22cac0ac2.codex-theme",
+      "bytes": 2201473,
+      "sha256": "d929f889c9aed48ca74938eae0414716ba2732ce7f547321b8273a302a3f2ca6",
+      "sourceUrl": "https://codexthemes.ai/api/themes/luffy-sky-liberation/download"
+    },
+    {
+      "id": "theme-1786687325967",
+      "kind": "preview",
+      "file": "preview-928da1cb2bc42bc3a0ebb59570e1c8199a950908a96af1486e5b4dcb75fab4a1.bin",
+      "bytes": 46993,
+      "sha256": "07e3d4edc5213af2f9ad1e49f882984bb0f4cf93d759c7926640191c340567a8",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/d8773670-14c4-4f35-b543-a3f9b67d67d7/preview.png"
+    },
+    {
+      "id": "theme-1786687325967",
+      "kind": "package",
+      "file": "package-e98350c7d0d6547565fbacf7d4d305e87c0b0335d5c5d674f154fa3939e8a94f.codex-theme",
+      "bytes": 21786,
+      "sha256": "cb8963779b17022d33de3354ab8e8e1289cc342f0d62b0d16663e2f84ded574a",
+      "sourceUrl": "https://codexthemes.ai/api/themes/theme-1786687325967/download"
+    },
+    {
+      "id": "obsidian-poise",
+      "kind": "preview",
+      "file": "preview-7127d69b7cdef291859f2be618cf42283fa7fc400bd1eb4fc73d57884f98a532.bin",
+      "bytes": 655321,
+      "sha256": "de20a4b53f31e710b39ea6d7574d79dc65f8d92766a399b2ca48edbd9190538b",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/e63711d3-8483-441c-b004-250c8d96f617/preview.png"
+    },
+    {
+      "id": "obsidian-poise",
+      "kind": "package",
+      "file": "package-9cbaa61e4ccd8dcd30fcedd83317473afe2fbff985170aa9607b1f63d0e7a900.codex-theme",
+      "bytes": 3110948,
+      "sha256": "4624433861c3151a851632e2c332f0f055651d4e236bcce2ada8b0968e162589",
+      "sourceUrl": "https://codexthemes.ai/api/themes/obsidian-poise/download"
+    },
+    {
+      "id": "gengar-neon-night",
+      "kind": "preview",
+      "file": "preview-0881724f509242d927574bafd216113e2287c4be89b3c629590a9abe34870112.bin",
+      "bytes": 963720,
+      "sha256": "d75fc70c21a196501bcac6d859f0f19b14983375b2a0b88a400be650a3e3cc03",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/8a6a7e77-a5d0-4488-b491-536077985fa5/preview.png"
+    },
+    {
+      "id": "gengar-neon-night",
+      "kind": "package",
+      "file": "package-bd67972228abdc200366b9cc082e04782f7d4cb2ce0037c6924c012ba6a580f4.codex-theme",
+      "bytes": 9030886,
+      "sha256": "d6914f8a57f70d75d7f9e4dc95021c496aa7defabc169d792cf5db0b3945ac04",
+      "sourceUrl": "https://codexthemes.ai/api/themes/gengar-neon-night/download"
+    },
+    {
+      "id": "theme-1786242140810",
+      "kind": "preview",
+      "file": "preview-19f7710f02093ed9620a8dc63cbffb9903a64debcfcff7f294466f9e0a20cf66.bin",
+      "bytes": 7418476,
+      "sha256": "05959d021270b6b5a354f30f157f9b99414157e242ed7ace063c675cdbd263df",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/75b50815-9be2-4efb-b1b1-61f5edbc3a6a/preview.png"
+    },
+    {
+      "id": "theme-1786242140810",
+      "kind": "package",
+      "file": "package-410d14ed37ecff3ca4725e3f8a891aa72d18cb3519424b8331516fed79cbf403.codex-theme",
+      "bytes": 2893853,
+      "sha256": "c8558a456e6d4afff761083ff02b0ffe5f6921e7c77c2f5bab493bfc32593b6e",
+      "sourceUrl": "https://codexthemes.ai/api/themes/theme-1786242140810/download"
+    },
+    {
+      "id": "chicken-soup-codex",
+      "kind": "preview",
+      "file": "preview-bcac2a190a16a3d4bab319659a57b8394003c31b016e36dcf64772ccf8d095c8.bin",
+      "bytes": 737795,
+      "sha256": "6b838c0285be7150942ad7cb15b73764ad8dd2f8c0a8c8f152044feb0bfdffc5",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/a971c4f2-b390-446a-a8d0-ee51dcb3fdf2/preview.png"
+    },
+    {
+      "id": "chicken-soup-codex",
+      "kind": "package",
+      "file": "package-873f5b3a8a97ae91ab5b60401459c1b92cbb7b8263b0792768e15e3cb7842c23.codex-theme",
+      "bytes": 1345345,
+      "sha256": "87123cc949d0a4766266b37d254f73fc60ea2e32429fdfbaacab07ffdfae7992",
+      "sourceUrl": "https://codexthemes.ai/api/themes/chicken-soup-codex/download"
+    },
+    {
+      "id": "miku-codex-f379",
+      "kind": "preview",
+      "file": "preview-f0ea067f736f5555e16dd376262d2df8c244ef027209b9ebf25545f76091713b.bin",
+      "bytes": 918351,
+      "sha256": "a273839d139e898612351248f8992a4f754cd1b7c5838fa94c4c4328eb8ad695",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/0d33b438-a197-4f4d-930e-885a4199d164/preview.png"
+    },
+    {
+      "id": "miku-codex-f379",
+      "kind": "package",
+      "file": "package-ea584a26b9819444f9b3ef42f2fbb216afc3ce35b770a0a7a617f2243dc962b9.codex-theme",
+      "bytes": 1497600,
+      "sha256": "d72ecc975967a8e63948932e6d97086c3e9bf709fef56c7bbff39bb64980e839",
+      "sourceUrl": "https://codexthemes.ai/api/themes/miku-codex-f379/download"
+    },
+    {
+      "id": "theme-1786020592613",
+      "kind": "preview",
+      "file": "preview-c58c7f86f369cf9065e1f268f1f98ddb332aeb5d4f26b78e5e8e3a1e6ff0d424.bin",
+      "bytes": 1473333,
+      "sha256": "f784f5fc27a02219945bc5c2fbe99a32b9d89949d32821d81a6e6fe9bd35308d",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/7c686467-3a98-454f-a2c6-374d3bafb6bc/preview.png"
+    },
+    {
+      "id": "theme-1786020592613",
+      "kind": "package",
+      "file": "package-99ee1f7c1781b4337d7c414ff6716d62c1c146bc592cce86f97f4d0ab5865fef.codex-theme",
+      "bytes": 18613974,
+      "sha256": "5bf06d3b7828f4b46965a86a313ddffc4e010a532683c11b8838c61543975028",
+      "sourceUrl": "https://codexthemes.ai/api/themes/theme-1786020592613/download"
+    },
+    {
+      "id": "theme-1786017138917",
+      "kind": "preview",
+      "file": "preview-0b3757129040a34dbab7f6199edea883a4b59c88b0d355d5c0b689a30fc5dfe5.bin",
+      "bytes": 1025969,
+      "sha256": "e854a286c837b02b64eb990d527f5f3ca301a896c60b46c63371734ca5f48f72",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/0b20cf3e-f648-4a17-8e73-fce67a32465c/preview.png"
+    },
+    {
+      "id": "theme-1786017138917",
+      "kind": "package",
+      "file": "package-d67937d4923f0194b71d6654058baa404520c06ab5c6b36906ee558cab60ae5c.codex-theme",
+      "bytes": 18016582,
+      "sha256": "abdcf8dd43435058c35f3d89010c68e949a07bdbe1d8077a38dbc08f810720fd",
+      "sourceUrl": "https://codexthemes.ai/api/themes/theme-1786017138917/download"
+    },
+    {
+      "id": "trump-maga-codexv2",
+      "kind": "preview",
+      "file": "preview-77ce83baef604de7a95cf904e2aee369deda0df2fcd85834fff80e579a61280b.bin",
+      "bytes": 411600,
+      "sha256": "06520dcfb7341bc2e7355c4435c20ce20671f2ac8cff5c2bdfd49ae090a49341",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/c6c2cf62-d9d7-4296-b7f7-9d164cf8d469/preview.png"
+    },
+    {
+      "id": "trump-maga-codexv2",
+      "kind": "package",
+      "file": "package-0fee93a04b2c9bddb55534a0773bfcabaa2faa819e5dbf472d6a718e1e62fdae.codex-theme",
+      "bytes": 3992349,
+      "sha256": "4fd8f6fe9414f8c57f863c851188db843bf7189e88a560fdce564e0292fb7543",
+      "sourceUrl": "https://codexthemes.ai/api/themes/trump-maga-codexv2/download"
+    },
+    {
+      "id": "kaori-sakura-nocturne",
+      "kind": "preview",
+      "file": "preview-57716420726a7ccc98e25c6ece2ca1528b615a7edf1593e2be776467f3f95ea7.bin",
+      "bytes": 834847,
+      "sha256": "5fd2f073908b4e1fe24e034d32406c474cf0bdc58a7d28137df47e9bd2f236c9",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/5c3b9e5d-ea35-42af-b460-504065fd3b39/preview.png"
+    },
+    {
+      "id": "kaori-sakura-nocturne",
+      "kind": "package",
+      "file": "package-a93d3fd6d58de23620d536256c18a342e8141da372a19368b528c9e54430b147.codex-theme",
+      "bytes": 2301697,
+      "sha256": "9e99ec6309ac0f6554f69461d112c6bf08a9b23bfa57ae415e2d633c174ddc2e",
+      "sourceUrl": "https://codexthemes.ai/api/themes/kaori-sakura-nocturne/download"
+    },
+    {
+      "id": "kuromi",
+      "kind": "preview",
+      "file": "preview-fd4bfde8cc48d388504c46895935d321b884a32427ec63c8fa496ce4ad0126b6.bin",
+      "bytes": 776688,
+      "sha256": "f06a03e809ebd271653521f6010b713eaa053d8bf46b0e13a14bfb5da4012880",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/4e59c834-63a3-4b36-99c3-c4841556c28d/preview.png"
+    },
+    {
+      "id": "kuromi",
+      "kind": "package",
+      "file": "package-bb6b1d5b75dfb7423a8c337cb78a0bd0a1eca139d203c74fab6bd906339afa87.codex-theme",
+      "bytes": 1355331,
+      "sha256": "8744a6b29bc127a4238e982fcf5bb7615842a9ea259dc9be75b18bdcb7a54c2d",
+      "sourceUrl": "https://codexthemes.ai/api/themes/kuromi/download"
+    },
+    {
+      "id": "theme-1785827166249",
+      "kind": "preview",
+      "file": "preview-6347460cf30175ff26154bb35838771a8e7716a59d02fbbb7202a7def783ab95.bin",
+      "bytes": 7069487,
+      "sha256": "3141e1438794564ba1159762b6a9d7cfcd7adef7d09297272b22e447c6629620",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/4cc05d80-b382-4bbf-93a8-a6955eee1488/preview.png"
+    },
+    {
+      "id": "theme-1785827166249",
+      "kind": "package",
+      "file": "package-9baeb3fba65f769bbfb79d9c179689f9c513899aa2648a13bc29050222218307.codex-theme",
+      "bytes": 7156480,
+      "sha256": "41ed2e30c854fded1318a6854bfd27bdc8f72682171df47bddb2e21afefb2b16",
+      "sourceUrl": "https://codexthemes.ai/api/themes/theme-1785827166249/download"
+    },
+    {
+      "id": "theme-1785824335864",
+      "kind": "preview",
+      "file": "preview-1d91fcba72b0e9f34346da254dca269082ba4001019b8f538e7acd9b42e2383d.bin",
+      "bytes": 449071,
+      "sha256": "5341be8ecd36e20a31f589cf8d148123694513b60e6bd83eaaf12bf47e90b7af",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/f729a96b-1ffa-454e-aa32-bd01db948d6f/preview.png"
+    },
+    {
+      "id": "theme-1785824335864",
+      "kind": "package",
+      "file": "package-a1f630738a51237fb44d1a65a2733efe4f547da5a5b124b13a4c7ef48ce29046.codex-theme",
+      "bytes": 4095312,
+      "sha256": "769e377fc063f609b0bd55ac96bc48f23120ef0ef487bd91fa7284a411e77191",
+      "sourceUrl": "https://codexthemes.ai/api/themes/theme-1785824335864/download"
+    },
+    {
+      "id": "miku-shuimo",
+      "kind": "preview",
+      "file": "preview-da63ace9fccb2840bbdb5c1167893cfc32b037dea5fd9106af0f6d8ad6553a4f.bin",
+      "bytes": 714631,
+      "sha256": "e3bc27ed599906f994a0c9daaf1f1d85de711a38fd413f45ed3a770bf4550b5e",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/d80ca340-1b63-4cd1-bc62-7c7c8258f841/preview.png"
+    },
+    {
+      "id": "miku-shuimo",
+      "kind": "package",
+      "file": "package-6a849a2b9fe4284e0949500d39ea7a5255378514a3f51290ad8ea1c59e6d9fd0.codex-theme",
+      "bytes": 1061964,
+      "sha256": "3b19bebedb1f5acf9e523282f3abd084a5a8026baedc462a658b3cd4a60932ea",
+      "sourceUrl": "https://codexthemes.ai/api/themes/miku-shuimo/download"
+    },
+    {
+      "id": "theme-1785551161595",
+      "kind": "preview",
+      "file": "preview-a9e0da96b645f6e35c5dcab2664cd7f0a73e74c1ac47ea270318e4634c53ded4.bin",
+      "bytes": 1711072,
+      "sha256": "a768d15a8f372e2c6347063955102fd3048b8711fb8238c3b389abc1a98309df",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/c527ff3f-f9e2-41e6-a75b-930a5f2e22e4/preview.png"
+    },
+    {
+      "id": "theme-1785551161595",
+      "kind": "package",
+      "file": "package-3e47c423360eef68fec4f252ba04cbebfb7ed8bb48ab6bd44bfa9378604c2e98.codex-theme",
+      "bytes": 1201274,
+      "sha256": "f50d1b52b7dd6eeffe168ec9af813c65ba93b558b8680b28c26597ed693a8b17",
+      "sourceUrl": "https://codexthemes.ai/api/themes/theme-1785551161595/download"
+    },
+    {
+      "id": "misty-morning",
+      "kind": "preview",
+      "file": "preview-5e9e4f3bf50809ac87dabd9ee8f3391bc7db057fa5490f80961ed3d9083361d9.bin",
+      "bytes": 712354,
+      "sha256": "e915de638f5e5b0513916fc735f4f20f89c3f3d8e26eba63e6df77fe1d2ae1b9",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/74133b51-cfa8-4cef-90ae-f55a54f063d2/preview.png"
+    },
+    {
+      "id": "misty-morning",
+      "kind": "package",
+      "file": "package-b1903c7d987b0ad42a216426bf38a337a54016efdc65d46d8a313836c142b583.codex-theme",
+      "bytes": 1167414,
+      "sha256": "72e173ff61a0b0ffb60eaddec1821e932d4e72dd855a67ba84badad5bfd426e2",
+      "sourceUrl": "https://codexthemes.ai/api/themes/misty-morning/download"
+    },
+    {
+      "id": "zhi-yin-ni-tai-mei",
+      "kind": "preview",
+      "file": "preview-e57d9e533ac9de3e0272cfb99268464193c6704b0aa101520256119927ce3fae.bin",
+      "bytes": 350693,
+      "sha256": "d0b9a40a9f10a67ef65cc9a06d55f2a80b465e5be14ca9c8baba5541cc387908",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/c6bef61e-e9e5-44e0-99dd-19392aac28b1/preview.png"
+    },
+    {
+      "id": "zhi-yin-ni-tai-mei",
+      "kind": "package",
+      "file": "package-7dfe98bf48e147fdfc43668bec1edc5822ed6ca097a475bb62799dff7cecb7ef.codex-theme",
+      "bytes": 1129227,
+      "sha256": "6cdce79ce26d6c01b35c98aa814623543803c3e029785ade3c9a58c1875749a4",
+      "sourceUrl": "https://codexthemes.ai/api/themes/zhi-yin-ni-tai-mei/download"
+    },
+    {
+      "id": "arina-hashimoto-codex-37d9",
+      "kind": "preview",
+      "file": "preview-4ba2a9778bcc0d720249bcedb25b930f6221ede435bfc2a5cf2aeba6424f7672.bin",
+      "bytes": 729700,
+      "sha256": "27d6314ea0e9180382f57fe55582181b833a0b49b2bce8458c84d1a23777b937",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/3428c3e7-dac3-41b3-a357-809ee1b6a0d1/preview.png"
+    },
+    {
+      "id": "arina-hashimoto-codex-37d9",
+      "kind": "package",
+      "file": "package-7691ea3de7b562680c726c4740f39257a7e4ced60a311c614a492e0806cc9659.codex-theme",
+      "bytes": 1381144,
+      "sha256": "f86884fef1e314f39be1d7824621d2f6d012d00ded1c90cd55bd648859842bd7",
+      "sourceUrl": "https://codexthemes.ai/api/themes/arina-hashimoto-codex-37d9/download"
+    },
+    {
+      "id": "crow-brother-workbuddy-2856",
+      "kind": "preview",
+      "file": "preview-9cabd4c69b903578f03d127b6e1981604650c2724228732481b65988a1bbe573.bin",
+      "bytes": 336279,
+      "sha256": "16a0271c0998af73fd4e929ef4dc8678e03c6b5cd6e87b34d3f6298039f93645",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/a37409f7-a4b7-40f6-a0c6-e650cdf0a494/preview.jpg"
+    },
+    {
+      "id": "crow-brother-workbuddy-2856",
+      "kind": "package",
+      "file": "package-c522471c01cf368fd1db3c0718f84386cfbb1a9bd885d90be5cb4eda00576cdb.codex-theme",
+      "bytes": 772027,
+      "sha256": "28542eff9dc36039be085465f87e4bbc9356b992666860f7ec71a2bb548c8e3d",
+      "sourceUrl": "https://codexthemes.ai/api/themes/crow-brother-workbuddy-2856/download"
+    },
+    {
+      "id": "miku-codex-acfc",
+      "kind": "preview",
+      "file": "preview-7659ce421c3e52623f25e76221aab126db9ff471892de97553c04d963e6880c9.bin",
+      "bytes": 377134,
+      "sha256": "ed63597b8afe621fd2757ceb9b585a7fb366c7048f19e4b3f17e52487a061f56",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/f071a4f8-13b5-4f86-b9b4-98267c5c62fd/preview.jpg"
+    },
+    {
+      "id": "miku-codex-acfc",
+      "kind": "package",
+      "file": "package-a7018be8c925456d5223efda1854b2d27413650991ec342b6e3461664cbf96d2.codex-theme",
+      "bytes": 786350,
+      "sha256": "8b4464b2ba0d917a820fa6276a228f5113d90cdac9bfe5096cdec4a5e2763abb",
+      "sourceUrl": "https://codexthemes.ai/api/themes/miku-codex-acfc/download"
+    },
+    {
+      "id": "crow-brother-workbuddy-63f8",
+      "kind": "preview",
+      "file": "preview-6eb799c74f4ceea201baa3a0574617dfad064278ad7962ff5684e9f085399ead.bin",
+      "bytes": 222729,
+      "sha256": "7baf362c40bde32d2f9145032ebce43783fc940fd6daefd4c879af09db851e51",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/f8f8d1c9-0acb-4d7f-9b22-bab22f7c921f/preview.jpg"
+    },
+    {
+      "id": "crow-brother-workbuddy-63f8",
+      "kind": "package",
+      "file": "package-2f19db410e1c2d9c643634063e1f437de8993ce24f9577f6b8768e4de685ca9a.codex-theme",
+      "bytes": 615169,
+      "sha256": "bd0acaad8c356b93dd16b41a7b8e897d8ee2edf0e4f8796120239a084cf7006e",
+      "sourceUrl": "https://codexthemes.ai/api/themes/crow-brother-workbuddy-63f8/download"
+    },
+    {
+      "id": "rose-dream-romance",
+      "kind": "preview",
+      "file": "preview-2602c3db411bb896363f01dc12d721e2ce4b25f4f9320b1682d3dbd99bcad990.bin",
+      "bytes": 684683,
+      "sha256": "d1916bd7ef831d36fd6ac06f476a7dc03dea776824f80d04384eea5c4a8297c3",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/d5725557-5a35-4e26-a66b-7995289dd5b7/preview.png"
+    },
+    {
+      "id": "rose-dream-romance",
+      "kind": "package",
+      "file": "package-696bd44ddab85405dcc59236f92ae4d2b0fe3f81a2726085e777e3abddf23fff.codex-theme",
+      "bytes": 933107,
+      "sha256": "53f1ae6fbeca676b7574631c066454e6b5ac6f9c6a7c873c9fb09289ba8f3f86",
+      "sourceUrl": "https://codexthemes.ai/api/themes/rose-dream-romance/download"
+    },
+    {
+      "id": "ji-ni-tai-mei",
+      "kind": "preview",
+      "file": "preview-0371bfcdeda252bfdc273421638848fd51784abab4690d5a837ef39924d2b0bd.bin",
+      "bytes": 1811649,
+      "sha256": "526a64d05b52f9342ad3e20ce21f8d795e88c763436a708f345e64ef2fe9cdae",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/fb186118-ea29-424e-85fc-3aa66e0f33f5/preview.png"
+    },
+    {
+      "id": "ji-ni-tai-mei",
+      "kind": "package",
+      "file": "package-c71a77c50e34b2476a8cad6de7150dce8eb009db6d526790794e16f9a6b7c786.codex-theme",
+      "bytes": 4846018,
+      "sha256": "3d20d80254ad037828f520bbf9b437f3a81871a5be59631603fac365d5539c8b",
+      "sourceUrl": "https://codexthemes.ai/api/themes/ji-ni-tai-mei/download"
+    },
+    {
+      "id": "sweet-strawberry-code",
+      "kind": "preview",
+      "file": "preview-f5fd7d681a994b685b62b8d7595fefa008741e2f0b6e3e2b7dbd25c781024aec.bin",
+      "bytes": 1122347,
+      "sha256": "7da93ec60af13ab0c2e7e694632b8806ec79fd1923b994e49607ce9fbd8089ec",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/b14b0970-7dc7-4216-a829-4f4183224e71/preview.png"
+    },
+    {
+      "id": "sweet-strawberry-code",
+      "kind": "package",
+      "file": "package-34ebebdcb04625fcfdd3237103b14acb88c93cee100408e5e42e72f26cf8374a.codex-theme",
+      "bytes": 3238804,
+      "sha256": "c72651d42e70e3a06f45b52f422bc1d740eb84b129b75ff2ddc7d1dc8ce87a0b",
+      "sourceUrl": "https://codexthemes.ai/api/themes/sweet-strawberry-code/download"
+    },
+    {
+      "id": "ink-blossom",
+      "kind": "preview",
+      "file": "preview-1d52fab72f627a5e5e13df195a93a3325d25535ea808a64316b2095f8a372bc7.bin",
+      "bytes": 624223,
+      "sha256": "b2d94113db94f78a064e734a4d781a8cf744ec9f7476ce5e0a91716fbe476dd8",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/e0d0fcb9-3d5a-4841-a774-f37926d259f6/preview.png"
+    },
+    {
+      "id": "ink-blossom",
+      "kind": "package",
+      "file": "package-f3af547c448b4e2ab3f5ac6e719fef5b4a70339d7201864461a28ca4b2553ad5.codex-theme",
+      "bytes": 2141683,
+      "sha256": "d300a705f4823a2d56a4e0a6e688e674a0e5c29cae414b1ae1db9f15612323d1",
+      "sourceUrl": "https://codexthemes.ai/api/themes/ink-blossom/download"
+    },
+    {
+      "id": "sakura-fresh-blooms",
+      "kind": "preview",
+      "file": "preview-ee01b017428cba86f4c2b2eb871d6ab46b7ea85d3a8518a4c9f8ca9264ff1b39.bin",
+      "bytes": 627666,
+      "sha256": "3a2a4790ed9337a16be9951e03f185718b43af5a6892972a6318f2407082d0b1",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/684ebd75-246a-4246-ac62-467e3892664b/preview.png"
+    },
+    {
+      "id": "sakura-fresh-blooms",
+      "kind": "package",
+      "file": "package-ce264d59ecbc74e21b8f0a99c8877fcc5e6fe84f1d9bd94244fa9d47b12c28c5.codex-theme",
+      "bytes": 3427757,
+      "sha256": "bf838c34a358d8a5feb31e826c0b2f13a9f2d3e0204ecf9b61faefbf38162ce7",
+      "sourceUrl": "https://codexthemes.ai/api/themes/sakura-fresh-blooms/download"
+    },
+    {
+      "id": "solitary-daisy",
+      "kind": "preview",
+      "file": "preview-c0791e5da6bef0e09247bc51ecbad35cf4f1cdf1a0b95600e5aa27213fb4842b.bin",
+      "bytes": 1205726,
+      "sha256": "bf8fc5aa87af7ff784af964c6c8f5db6f1d0fd3edc2cb7dd6d4214c491dd25c2",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/14b5dd6e-11dd-4d71-9ece-b56c3a482ca5/preview.png"
+    },
+    {
+      "id": "solitary-daisy",
+      "kind": "package",
+      "file": "package-466fa198316c66ec745f25cb59dc0cf26b93681dee15ae0b51962ec970b183c9.codex-theme",
+      "bytes": 2786981,
+      "sha256": "70f82e417a355799d4ca224c0ce7f3e4fb4efc5c6c3ef9259b287fafd6420948",
+      "sourceUrl": "https://codexthemes.ai/api/themes/solitary-daisy/download"
+    },
+    {
+      "id": "enfp-inspiration-codex-b62e",
+      "kind": "preview",
+      "file": "preview-2890ded2215f06fcda0b83b633d2e3c79fd7afb842d670634b5f5b4035903c98.bin",
+      "bytes": 179970,
+      "sha256": "f97121a1c61861c909ab239b65b2f9a161d14f2074381c73901b4a0534436055",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/af2d799b-f124-4b9e-a699-195adbe6e08b/preview.jpg"
+    },
+    {
+      "id": "enfp-inspiration-codex-b62e",
+      "kind": "package",
+      "file": "package-6ab3b55a9abc6e567f564cb6f29c35672f54f1ffc7bba17c3c63bb2fd9f81377.codex-theme",
+      "bytes": 496744,
+      "sha256": "35f8412bb4f3007c79ae451aa5003f89bede76218174d6d4b76869ced5a0b768",
+      "sourceUrl": "https://codexthemes.ai/api/themes/enfp-inspiration-codex-b62e/download"
+    },
+    {
+      "id": "crow-brother-workbuddy-5e58",
+      "kind": "preview",
+      "file": "preview-1d07368ffc325d1c53614f2dedbd2fe7d4df4d17a64e6d997d9e0c70297cb94a.bin",
+      "bytes": 708074,
+      "sha256": "57e8f5e9771bef4813ed6657a77bee7516de3fbe2ab85707d1891b3107e3f733",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/d92924b5-8ce7-4b38-82b0-384bce208b7a/preview.png"
+    },
+    {
+      "id": "crow-brother-workbuddy-5e58",
+      "kind": "package",
+      "file": "package-fa2de8c1dd27a9a576481b29debb658c70f3fbff60c4f0ee02f14121238311de.codex-theme",
+      "bytes": 5182123,
+      "sha256": "5387b30c9ac854e147dfd34e2310cb70c7c809e22a1cf33fe9eee30b4c032800",
+      "sourceUrl": "https://codexthemes.ai/api/themes/crow-brother-workbuddy-5e58/download"
+    },
+    {
+      "id": "god-of-wealth-codex-lite",
+      "kind": "preview",
+      "file": "preview-84f939766e671d8b85452bfd889775f315da535d0cecf7665152d72bb20ffefe.bin",
+      "bytes": 140900,
+      "sha256": "011863ca65e6a8ba5e3dec3b450f973c4d313d282c6285cd383073b853310de4",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/4d06cadd-095b-4153-b6a9-6b54a6778b25/preview.png"
+    },
+    {
+      "id": "god-of-wealth-codex-lite",
+      "kind": "package",
+      "file": "package-53b75e20644a85c9e65eb53a639fa0f8d63287d9b56578604545beac0a33755e.codex-theme",
+      "bytes": 205539,
+      "sha256": "d79723b110815fac3423a3cd5042a98908c02300b543fe1a660273fe77445453",
+      "sourceUrl": "https://codexthemes.ai/api/themes/god-of-wealth-codex-lite/download"
+    },
+    {
+      "id": "digital-horizon-night",
+      "kind": "preview",
+      "file": "preview-c5c781146fa6526e0c7c71758bdee17693d992b6ab7cab371aba552321788bb7.bin",
+      "bytes": 826516,
+      "sha256": "612a4cc95ff76f92eb2983952bf90ad2dd43d85f64cb1d3d894047060de64013",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/1f9870f8-2886-4587-a1b2-59d86ca1180c/preview.png"
+    },
+    {
+      "id": "digital-horizon-night",
+      "kind": "package",
+      "file": "package-a5166197aa408d10eba92d30693d72a05c546f43b2c0596867bec6e99d45dfc0.codex-theme",
+      "bytes": 7759532,
+      "sha256": "811e0f6b70b3cad947a646d561f62b6005cb68f15b63fc59540b7e2246729394",
+      "sourceUrl": "https://codexthemes.ai/api/themes/digital-horizon-night/download"
+    },
+    {
+      "id": "nahida-forest-bloom",
+      "kind": "preview",
+      "file": "preview-b3e6b3e17f74f67e163d6e00a889bfb25c97eb7cec8c9aeb5c28ece603d3d401.bin",
+      "bytes": 1183758,
+      "sha256": "7c7634a4d6653faa75078b0432b6c943ba180a4936ff6586e1a3d1c1d979a1b7",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/89af2d79-b2ca-4a6f-929d-cd02ace5f85d/preview.png"
+    },
+    {
+      "id": "nahida-forest-bloom",
+      "kind": "package",
+      "file": "package-9a47b1c6cd43734017861925ca4cb046d2b33fb71e2fef43b29dc95aebbc65c5.codex-theme",
+      "bytes": 8107296,
+      "sha256": "5e86c5737559f6acc16f7e38b5ba65700ab77c670c180592ada135e8ce079e96",
+      "sourceUrl": "https://codexthemes.ai/api/themes/nahida-forest-bloom/download"
+    },
+    {
+      "id": "today",
+      "kind": "preview",
+      "file": "preview-f688f5b3b5e564f520d71b7ba298c0cf74a60bb6569a5d8325d653d44c0e8e74.bin",
+      "bytes": 477440,
+      "sha256": "46a1cf2a0d926abbb5dbdeb8d6e20e2288fbf3103ec7883f5aab59444e15b994",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/095e792d-0399-4abe-9f3e-6b51c5b10b11/preview.png"
+    },
+    {
+      "id": "today",
+      "kind": "package",
+      "file": "package-b1e2154c2ea8e8512ff84a461bb6397effdf58eef8ddc06c897d79c7056e0c19.codex-theme",
+      "bytes": 652128,
+      "sha256": "efcc6aa22771c48e95988bfe4074a26705c4c034e3f36907e7a80a822b4eb441",
+      "sourceUrl": "https://codexthemes.ai/api/themes/today/download"
+    },
+    {
+      "id": "zhangjie-sky",
+      "kind": "preview",
+      "file": "preview-d8114c55440cce73e41e268a05deb406e90110a27d8e5f876c3edcb9610f443f.bin",
+      "bytes": 712381,
+      "sha256": "3fcbe5d34cb6df58b11fcf687f6b838bd8c54a5d2047d52e53c80175fa3e36ed",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/28368357-ea3b-474d-ad44-cca4334d0a19/preview.png"
+    },
+    {
+      "id": "zhangjie-sky",
+      "kind": "package",
+      "file": "package-8a9fc37ea5c9126231c3aafa29feb933a4c597c95fc6071d41fcba039d85760c.codex-theme",
+      "bytes": 1625234,
+      "sha256": "bfd713c1f01b167bc745ab09a152438ef7e5b2dd05e1d4964e6e2a32758703dd",
+      "sourceUrl": "https://codexthemes.ai/api/themes/zhangjie-sky/download"
+    },
+    {
+      "id": "neon-arena-squad",
+      "kind": "preview",
+      "file": "preview-50fcc70ed303008317033963362c9b52ba783a7734d0fb28657c402dc963771c.bin",
+      "bytes": 1296162,
+      "sha256": "52318677772e0e0eddd767a70545138d213265bc26ca1a649864f5f210afeea0",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/06bff7e3-a44e-46cd-b46f-cce866a53a41/preview.png"
+    },
+    {
+      "id": "neon-arena-squad",
+      "kind": "package",
+      "file": "package-479f9b0bdd278606a176577699c204dd268db04a5e5b40a05e49850b6bb8eb2e.codex-theme",
+      "bytes": 1990870,
+      "sha256": "2bb33c3aaa4884024943e2c71587ff29634d9f2e522e58ac94d8160816cb03f4",
+      "sourceUrl": "https://codexthemes.ai/api/themes/neon-arena-squad/download"
+    },
+    {
+      "id": "qq-2007-blue-diamond",
+      "kind": "preview",
+      "file": "preview-d1fb0f26d66a381cbdec282ee359517d6187f0d3a567ffb325beb471a318e1df.bin",
+      "bytes": 630421,
+      "sha256": "b72894dc05c3d20b61c98577b3fb87d7f3d010b4cc3c802d6ae34a4b419a4712",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/c8b06f6e-cd2d-49c9-b065-5a9467517d5c/preview.png"
+    },
+    {
+      "id": "qq-2007-blue-diamond",
+      "kind": "package",
+      "file": "package-ec28dfb74b4a66f8b6432f5dee07ba59eaffdfefabf455733afa920d57c98810.codex-theme",
+      "bytes": 2741145,
+      "sha256": "a18de11ce5685b1f3d4ec2df65690725b03a7e8e2ae01208d7946bf6c1e2e2aa",
+      "sourceUrl": "https://codexthemes.ai/api/themes/qq-2007-blue-diamond/download"
+    },
+    {
+      "id": "frostline-tactical-glass",
+      "kind": "preview",
+      "file": "preview-9e57f938b32f815fd255cd0e0ac9c3b20b3d34d08cac34a7357cd5fb1d8f10be.bin",
+      "bytes": 1180394,
+      "sha256": "6361090b30a94217d93a35eae015bcbb698e828454a89ea361c952256d7f1aff",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/c61f6058-1da9-44b2-9ce2-1f638f6fb68e/preview.png"
+    },
+    {
+      "id": "frostline-tactical-glass",
+      "kind": "package",
+      "file": "package-a5d070c219c1843bc03b268d273251011892c0cd859a2cff729f1af70b697faf.codex-theme",
+      "bytes": 2255561,
+      "sha256": "05833019129df01fefc7c607abfeb2ab68f87a13dced7311ed032677f07bf6fb",
+      "sourceUrl": "https://codexthemes.ai/api/themes/frostline-tactical-glass/download"
+    },
+    {
+      "id": "zhengxiang-meme-poster",
+      "kind": "preview",
+      "file": "preview-27779fc826fdad6be7796a256ece8fc188d4001946f00aea9c9cd400ae33501e.bin",
+      "bytes": 2224016,
+      "sha256": "444a34f5e6679c65f4c8c66d94f1e8bf37a3070b56f4175f35358803d4bd5435",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/d77e2f76-db96-4544-aa0a-4036b32d0073/preview.png"
+    },
+    {
+      "id": "zhengxiang-meme-poster",
+      "kind": "package",
+      "file": "package-be946b725a7fb06d3997768a3509d2f09e17eb44e6dda4ee327bf67e615d51b5.codex-theme",
+      "bytes": 3154646,
+      "sha256": "a1df3c508231a9685dc1d7163d08ce2fe98c06dbbe5cc9c33480820af33f63d9",
+      "sourceUrl": "https://codexthemes.ai/api/themes/zhengxiang-meme-poster/download"
+    },
+    {
+      "id": "street-steel",
+      "kind": "preview",
+      "file": "preview-cca58505806b0b98d3b17f2061d6a467ca9d89c18866eb1e42169d24f5ab2007.bin",
+      "bytes": 769280,
+      "sha256": "a9791d90e3d16803551e0ed53c653e36a5eca277cac2d117e1df17ced89677dc",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/ef3ff17c-4484-4279-a8ef-2807353707ab/preview.png"
+    },
+    {
+      "id": "street-steel",
+      "kind": "package",
+      "file": "package-27692e7fa331468871797ab7de612cf8c17b31d94a2a2d16fdfff191cd977935.codex-theme",
+      "bytes": 1237827,
+      "sha256": "4e0fb2bed919f68912f67ac86e66bd01919b412bbc52ab97a6565d22811d9593",
+      "sourceUrl": "https://codexthemes.ai/api/themes/street-steel/download"
+    },
+    {
+      "id": "gazi-dog-heist",
+      "kind": "preview",
+      "file": "preview-59b3ec78f0f6a18a4a5d57067f9b34a72ee8c954e591dd2516f20d00b750fdd0.bin",
+      "bytes": 791692,
+      "sha256": "49453233ba40a24fd8af2248816afaf9100aaf38242eb3d356cf2d940511f338",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/4033ad88-8f45-4b17-8fb1-3b68a6ddfdaa/preview.png"
+    },
+    {
+      "id": "gazi-dog-heist",
+      "kind": "package",
+      "file": "package-7c295adcad5a3f6ae7a424af21286d6df073de908b9925f7be261257e0f06ff7.codex-theme",
+      "bytes": 1278772,
+      "sha256": "0cf218451885f4d4d7ba263c20aea15f044916d658a828c33c1bfe33ee054bfb",
+      "sourceUrl": "https://codexthemes.ai/api/themes/gazi-dog-heist/download"
+    },
+    {
+      "id": "yuan-sky-stage",
+      "kind": "preview",
+      "file": "preview-a717d8f30e35dbf7525efb0ea3a133c80ec19be759a55fa1e62cadc92cafd26b.bin",
+      "bytes": 980471,
+      "sha256": "95c200bb14908eb5e2b09771fd29494f129714dba12556a62d084235ff87abf7",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/1acfdc0b-8f04-4d93-9f64-92b1a12f0f07/preview.png"
+    },
+    {
+      "id": "yuan-sky-stage",
+      "kind": "package",
+      "file": "package-a757fe38eb4177913d4213abf515e238ae6ff9d678baa39f5af3009b17beba92.codex-theme",
+      "bytes": 1926682,
+      "sha256": "2ac262aa5cc03295d94df39976c018e7b64d08c11115cc69175919bbdbab182c",
+      "sourceUrl": "https://codexthemes.ai/api/themes/yuan-sky-stage/download"
+    },
+    {
+      "id": "three-body-sophon",
+      "kind": "preview",
+      "file": "preview-aefad14c4a18aea247790ca919520898b9409fa9885247d926a5207daa70163e.bin",
+      "bytes": 828532,
+      "sha256": "0626b9341e90affc961b0a04ea8b88f082d8c7755d962f7c8982a08113b0fee0",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/77fda746-fb34-4164-b229-5edf5f5081eb/preview.png"
+    },
+    {
+      "id": "three-body-sophon",
+      "kind": "package",
+      "file": "package-49b043d89cafbe20d500c628703d6c47758108d9f2ffec39d5f9f7df82e6aa08.codex-theme",
+      "bytes": 3697649,
+      "sha256": "527a14d03d6616c6f6d5a71d138f4d53f56a0f172a4866302f5a67cdaffa3dfb",
+      "sourceUrl": "https://codexthemes.ai/api/themes/three-body-sophon/download"
+    },
+    {
+      "id": "theme-1784528192238",
+      "kind": "preview",
+      "file": "preview-397f62c7388594f0b63759a123875972043e43fb4003f38417489987dcc8ec3d.bin",
+      "bytes": 818716,
+      "sha256": "0a47fcef28dc77a22f5093f80b2ce07055616c4b68004f7b77740d00f8a3b6d1",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/1c51cc77-b5ea-4c54-975c-e4ef4aa60206/preview.png"
+    },
+    {
+      "id": "theme-1784528192238",
+      "kind": "package",
+      "file": "package-2ba59b859f14b48079a6c3e4f1742a1b94908d623cf2d078543ff05abebbb3a0.codex-theme",
+      "bytes": 3879872,
+      "sha256": "f03baf51f5b5b6a1c226054dee69ac5f07a0921ae74f1264ba649b21fc3ccbee",
+      "sourceUrl": "https://codexthemes.ai/api/themes/theme-1784528192238/download"
+    },
+    {
+      "id": "vertical-city-night",
+      "kind": "preview",
+      "file": "preview-7118a8b96ad287defc36bcea15fdaf2e924a536a3a13737386430059696a1819.bin",
+      "bytes": 641119,
+      "sha256": "3f990d79c756fd4a462ffb252c89358d088847b27d294f7f010bc12010b6a0a9",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/39c04cc7-eaf8-492d-b9c2-38d63f3ed4a4/preview.png"
+    },
+    {
+      "id": "vertical-city-night",
+      "kind": "package",
+      "file": "package-606d3a8b3b1bd49087957d9193207496f11d889f3857f615327e297403c70a3b.codex-theme",
+      "bytes": 5884437,
+      "sha256": "261f01a7fda2468dea623ffb381f6761c27482f14784a92fe5e059a729d16ec0",
+      "sourceUrl": "https://codexthemes.ai/api/themes/vertical-city-night/download"
+    },
+    {
+      "id": "lol",
+      "kind": "preview",
+      "file": "preview-759e30c98483fa6ec607db0c75a11763d7fd06128749e3b09d3abc6adf6d5bdd.bin",
+      "bytes": 1850023,
+      "sha256": "cf385238542e587a152303917b6f86abcfe159fc45fc36060648e31359a5195c",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/7dfd834b-1f0e-4c59-b979-f9917e11e550/preview.png"
+    },
+    {
+      "id": "lol",
+      "kind": "package",
+      "file": "package-168d6df5f39ac65086a993321ede86bc087d615861662f44fa8ee077dbbd5c91.codex-theme",
+      "bytes": 1880175,
+      "sha256": "dcad1b1c9c48a7a8c9f760ae70fb4f13869bc0b5b0c2076ac7af5980a1931d04",
+      "sourceUrl": "https://codexthemes.ai/api/themes/lol/download"
+    },
+    {
+      "id": "moonlit-gentleman",
+      "kind": "preview",
+      "file": "preview-03b423ce4a8edc5490581c633c828ff6bb2a5110b2af7b6e73e3ea3cc15f0142.bin",
+      "bytes": 822764,
+      "sha256": "fff9723dbfa239301da675f1aea0762598739c1138ae6f3016404540a1285555",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/79ac9127-2dee-45f0-a4ad-f79c7f6d8a9a/preview.png"
+    },
+    {
+      "id": "moonlit-gentleman",
+      "kind": "package",
+      "file": "package-e81f6dd0dbeba69725d38e97133310070c7a9c87381790b981c65a32fcd88832.codex-theme",
+      "bytes": 1600085,
+      "sha256": "54ebe0428ff765c0ebec341e214b00a585f5679d2b2bdf8d3a8e48138fdc0630",
+      "sourceUrl": "https://codexthemes.ai/api/themes/moonlit-gentleman/download"
+    },
+    {
+      "id": "shenron-starwish",
+      "kind": "preview",
+      "file": "preview-588e79f3457c9311fab908337824b96892becbd11d49cc8ebb7426434633b241.bin",
+      "bytes": 1064924,
+      "sha256": "9bea9e9450e653487eae416bfcc64ea73540260f671f3c876805a6b012703651",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/b3249c70-d510-4bd8-9b31-aeef4e0da53a/preview.png"
+    },
+    {
+      "id": "shenron-starwish",
+      "kind": "package",
+      "file": "package-4720aad3752293f50519e645288b2d5939ef4540f569487182a03c0686d2be34.codex-theme",
+      "bytes": 1832767,
+      "sha256": "2e1809947369e77034d255f98b2fe92ffdca31224c22fa9a2a73b277a28fce22",
+      "sourceUrl": "https://codexthemes.ai/api/themes/shenron-starwish/download"
+    },
+    {
+      "id": "doraemon-future-sky",
+      "kind": "preview",
+      "file": "preview-e3bfa9580e7f2cecff544fa9c0adaebac96a626522339805f1880c6dabb568ac.bin",
+      "bytes": 961718,
+      "sha256": "3f15b36a750a51ffaf23089d75aa0b5434852f9e5a413fb831a7865881cafdd1",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/1072fde9-0d45-4db1-bd4f-328bd1e4de9e/preview.png"
+    },
+    {
+      "id": "doraemon-future-sky",
+      "kind": "package",
+      "file": "package-2ffab0a58c924de8b4ba239f0ded19efd3b4b575afbf553236b9f6c0bfa9b887.codex-theme",
+      "bytes": 2786848,
+      "sha256": "88b2c1967f864785aba18b9d063734c83d2821b1ddb532eb74cea0e6623d39b2",
+      "sourceUrl": "https://codexthemes.ai/api/themes/doraemon-future-sky/download"
+    },
+    {
+      "id": "portal-panic",
+      "kind": "preview",
+      "file": "preview-1505518579c10e86ce361207e2925b1098f65b60104b699eaf5db9215ef0142c.bin",
+      "bytes": 399537,
+      "sha256": "005c2cf7370105af1fa2b4601b6c3b7c150ca6aaf8a9c35c2497f9c5eaa0fbe1",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/0cbe48c8-e4f4-4adf-b806-2575bbd9b102/preview.png"
+    },
+    {
+      "id": "portal-panic",
+      "kind": "package",
+      "file": "package-9be841ea2debe63e0810c066fb29c5c7ba227a852f68e6d6f16964093796550c.codex-theme",
+      "bytes": 583500,
+      "sha256": "3c641393fe16ba02df6548109ff1335ebbc25cae116454f58f302904fccee98a",
+      "sourceUrl": "https://codexthemes.ai/api/themes/portal-panic/download"
+    },
+    {
+      "id": "ligurian-afterglow",
+      "kind": "preview",
+      "file": "preview-8ed98071e6bf81240bffa7360ab74cd900e523a037e2b6b9d6fba5d20a15b275.bin",
+      "bytes": 1060288,
+      "sha256": "c1fcd6cc58c92af62dfd109378fb631663d054385c930d0ee640c9a63d02ad7f",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/196e7cc1-47f6-4f7d-9e5d-96278873323f/preview.png"
+    },
+    {
+      "id": "ligurian-afterglow",
+      "kind": "package",
+      "file": "package-7cb1f6d4a05ae35486f9812848493f7de6a07dc03deb0976bd78b5448157200a.codex-theme",
+      "bytes": 2504906,
+      "sha256": "bbce1dfe3e8ca14e2400aab777d629c9d68c6e9323403070ccba630f8b6591e9",
+      "sourceUrl": "https://codexthemes.ai/api/themes/ligurian-afterglow/download"
+    },
+    {
+      "id": "wulinwaizhuan",
+      "kind": "preview",
+      "file": "preview-cab314162ee667b7d1fbf22c814dc9366ad461da144fe1e4fa9b35618206fb83.bin",
+      "bytes": 1183086,
+      "sha256": "a91d470a32395bac6d13318f509ddce778f902f2b918024cfaa38d799e6e63c5",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/217b352f-179f-4bb0-8da3-908fd4f4c7ab/preview.png"
+    },
+    {
+      "id": "wulinwaizhuan",
+      "kind": "package",
+      "file": "package-89b9595d7d0f1f1b65ccdca86b36c3279fdd37d17ce320d6c9e6c8254607e619.codex-theme",
+      "bytes": 1801189,
+      "sha256": "196c0a81377c00a6ed85e807b1d9fb52ed6e0bfa64f456159e3ac117e37af596",
+      "sourceUrl": "https://codexthemes.ai/api/themes/wulinwaizhuan/download"
+    },
+    {
+      "id": "ba-xian",
+      "kind": "preview",
+      "file": "preview-c4d66483564dcdb6a4e55ca5a14154774bc496f92cfd9b4438109a74021bec35.bin",
+      "bytes": 801126,
+      "sha256": "b1f4dfabae545ee3375b89ab0a01a60c2765f5e8d1cc75c8f859a90772e89e5a",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/c8d22a6d-c6e0-4c20-bd93-fe3b6163e244/preview.png"
+    },
+    {
+      "id": "ba-xian",
+      "kind": "package",
+      "file": "package-a1927139acd725adff0b4fa47202cd95c07f68898cbdda1b13d37178318a9dc9.codex-theme",
+      "bytes": 1517632,
+      "sha256": "2528ebfc6b0889eac8d25048f36d84c284ad6a1f616877e08441e10a3c5bcf67",
+      "sourceUrl": "https://codexthemes.ai/api/themes/ba-xian/download"
+    },
+    {
+      "id": "argentina-vs-spain-final",
+      "kind": "preview",
+      "file": "preview-d7295256f2fe72d17c8d27b82da702f26e0e9f2d0b5df3d2402eab086bd9bf3d.bin",
+      "bytes": 1148406,
+      "sha256": "a01f57c5418338adb8f3f77e615006e07f2a15bcf004db87e3eddfd4aac32fcf",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/f1be9a76-a82e-4b40-a9b1-dd417be3ed07/preview.png"
+    },
+    {
+      "id": "argentina-vs-spain-final",
+      "kind": "package",
+      "file": "package-e3dd0f744a56830312ccb0ec162d3c351a561db07342baa26670343341e741b3.codex-theme",
+      "bytes": 1879553,
+      "sha256": "f60a5b6ca6845a8befb41017d4a4da2496c6f49682a2b7ddffc84ebaba295185",
+      "sourceUrl": "https://codexthemes.ai/api/themes/argentina-vs-spain-final/download"
+    },
+    {
+      "id": "shaolin-football",
+      "kind": "preview",
+      "file": "preview-585ecc73b4a237292f04d9971732ef8156d4465c709ef93c00b5ef8eafbeab33.bin",
+      "bytes": 394926,
+      "sha256": "4ef9a0a248b460c40a276866d4d11b7d02e4acc32d4f5df245f6c37b2543e31c",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/21e94a7c-4aba-4836-a91a-d380aec239d4/preview.png"
+    },
+    {
+      "id": "shaolin-football",
+      "kind": "package",
+      "file": "package-da08b8950bc0e468820d78100cfb03f5421f97036e0f34af6f91fc5afbd70b71.codex-theme",
+      "bytes": 903809,
+      "sha256": "b0e63e3019a487bc5fa5a00908046312e71136efa6f0165e7bbb6b6b87f71123",
+      "sourceUrl": "https://codexthemes.ai/api/themes/shaolin-football/download"
+    },
+    {
+      "id": "qq-2007-revival",
+      "kind": "preview",
+      "file": "preview-d667757e3ccf2d37015030f6e51e3c0b7f6e13f650e4e212014e77e6d445c4ab.bin",
+      "bytes": 837682,
+      "sha256": "e9ca98036564d5af020f47b4a26d478f3d15d63427382f7169445fd0bc00bae7",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/49a156fa-972b-4fef-aa0b-762104435739/preview.png"
+    },
+    {
+      "id": "qq-2007-revival",
+      "kind": "package",
+      "file": "package-75f7af7d33e24959eff7a879258573bd2c96000ba7507515d3020f5cadc61f23.codex-theme",
+      "bytes": 1141235,
+      "sha256": "a7d33c194c9f60b495385c76c9ebb856459196769b146368a3f31b62d8f5f4fd",
+      "sourceUrl": "https://codexthemes.ai/api/themes/qq-2007-revival/download"
+    },
+    {
+      "id": "fortune-code",
+      "kind": "preview",
+      "file": "preview-4ee178bb352c17c79db12038466a77917b97bf203d30770c1e211a51c67cb588.bin",
+      "bytes": 1270482,
+      "sha256": "257974648385281a7ddafc702180b55f3a3e8367ba3a08ca691043739ea1a094",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/c296e9e6-626b-4377-ac13-3fc49789486c/preview.png"
+    },
+    {
+      "id": "fortune-code",
+      "kind": "package",
+      "file": "package-a1368501b796f56c4e63f6df5adbc153672bef545c10c5a5e7e1cad2782b0245.codex-theme",
+      "bytes": 673103,
+      "sha256": "d5664f334576e407d336022e4a07cfad3835bf1ab35650d6cd9ce3fa050007ce",
+      "sourceUrl": "https://codexthemes.ai/api/themes/fortune-code/download"
+    },
+    {
+      "id": "theme-1786780354717",
+      "kind": "preview",
+      "file": "preview-80248b4b32fd063bcdb38a25cae076cec5f2eb3c539d4154bb9f3172f1ee0270.bin",
+      "bytes": 1690489,
+      "sha256": "c76dc8cabd6f80c904f00167e531bc0f5492fa3a377ea5145114bb1f8eae332c",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/fba19e9d-4aba-41bd-b0e9-073de399ed43/preview.png"
+    },
+    {
+      "id": "miku",
+      "kind": "preview",
+      "file": "preview-ec66cb2f37c421c1276e12a8abbb6fb39c0a8ea6f8bc5525cc7105f973516d54.bin",
+      "bytes": 664441,
+      "sha256": "f9b1c64ffc43bb8f94d7b5dcbbfc00081595bd16e87820843899f8bdd31f7f31",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/3bb40c4a-383e-40ef-bd34-d4ccbcaef1df/preview.png"
+    },
+    {
+      "id": "gandum",
+      "kind": "preview",
+      "file": "preview-7b3a9503c10b938215905408e845475dcce204433bbdebdea72fa8bf5d1bdf2c.bin",
+      "bytes": 1654031,
+      "sha256": "17b0abb57d1bc1accd7871f100c522deb2b98a27040e02211984dcd9670c5f93",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/49ef86ed-bc49-4c35-880b-366f51ea46dd/preview.png"
+    },
+    {
+      "id": "trump-maga-presidential",
+      "kind": "preview",
+      "file": "preview-89a71be03fdccb9288af903771fcd32a7630838c055d921268f0ec15c9f27c05.bin",
+      "bytes": 936455,
+      "sha256": "f8cb52725e2f41306968de921ccbca3c625ef5dd728fefd253e5349b8ddd9250",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/9634356b-e91b-4ba7-a4d2-686c750ba928/preview.png"
+    },
+    {
+      "id": "cyber-earth",
+      "kind": "preview",
+      "file": "preview-0fd2840c106ef002b917f0fcc72311b4bb7a964fcab047c26ec5a2a251f63178.bin",
+      "bytes": 1777254,
+      "sha256": "37a58cf86983c6fe0fca5c5dff300e48f5553cd9d60e88ffbaa800b7fd1c53ea",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/c85f89b5-3dd6-42b9-8358-bcd3c9bfdaf9/preview.png"
+    },
+    {
+      "id": "xuxuk-02b6",
+      "kind": "preview",
+      "file": "preview-8cc568d4199999d01aea02b93f56aff6007d13629175641e06a61fd2c94308f4.bin",
+      "bytes": 223767,
+      "sha256": "2d44897e0643557b69d483102c7e04c679086d8348455dcf7f97a3dc467eb32e",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/597e5029-d07b-46da-acc9-6da5ab9f8fd3/preview.jpg"
+    },
+    {
+      "id": "xuxuk",
+      "kind": "preview",
+      "file": "preview-00cb662cce61957362d3c94d68aa1d9d8c417d3695d91366c934b6ec153a7729.bin",
+      "bytes": 274958,
+      "sha256": "e05982917da46b37f155957da09cb7e57acf15afbfa13a93f47bca7950425ea6",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/89b9798e-f288-4a86-8b0d-d3be496cc22f/preview.jpg"
+    },
+    {
+      "id": "diana-codex-theme",
+      "kind": "preview",
+      "file": "preview-342f5da8ade1cb938ade55d5534c1157aa274909868601e75629c380f1341b8b.bin",
+      "bytes": 304385,
+      "sha256": "bec4c0a7fb1e4eb5c07b0f6400c7a94cfcc23191626715e94cec26ce96146311",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/2a871904-5400-459c-bb66-afada6818a53/preview.png"
+    },
+    {
+      "id": "curry0",
+      "kind": "preview",
+      "file": "preview-d5519be3ce0692339d2d25dd9b83855dcb50a6910d3632139d7e3ad8cc4a4120.bin",
+      "bytes": 1269283,
+      "sha256": "f293cbf7236e580b423cdd0d5642055243f07bd053b696a65de4afba3bc283d2",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/d12b8701-fde9-4c7d-861e-f7b8e01b194e/preview.png"
+    },
+    {
+      "id": "curry",
+      "kind": "preview",
+      "file": "preview-78632252ed451901ec217db0010ed989c5cd1ca0a2dac602b9a5897e041c9022.bin",
+      "bytes": 1269283,
+      "sha256": "f293cbf7236e580b423cdd0d5642055243f07bd053b696a65de4afba3bc283d2",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/3358872d-79a4-4579-934d-d56368f72ba2/preview.png"
+    },
+    {
+      "id": "theme-1784641228442",
+      "kind": "preview",
+      "file": "preview-c22265f5d7951b110daa9aec2f9719ddf591b01e70bdc14c12855bb423539486.bin",
+      "bytes": 2176025,
+      "sha256": "e620ee5031d7c1937f31dd7f4b74286b2c7bbe6105974ffa26c1cfe11e3cc30f",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/91247cc0-842c-49d5-b59e-6ce1efaeec78/preview.png"
+    },
+    {
+      "id": "theme-1784623712453",
+      "kind": "preview",
+      "file": "preview-aa22605cbcd4b324288b2ec503ef32643ba4345617278f202cc65115713d0f9b.bin",
+      "bytes": 2260297,
+      "sha256": "7f4f6838055313899995bd4e1624dc86d6942521e8b49964c024f07c7051e6af",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/589717fe-49d7-428b-a7d4-24d64bacbef7/preview.png"
+    },
+    {
+      "id": "theme-1784623590070",
+      "kind": "preview",
+      "file": "preview-97252f1bc9bafb8818a8127e3a057f0674f83607e2b40558830281845efd4035.bin",
+      "bytes": 1926039,
+      "sha256": "6750d64089cf7c237820fc850fedf80206f997433529073710c5b3f430483546",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/47b0d160-2cd4-407a-8a87-4039be114159/preview.png"
+    },
+    {
+      "id": "theme-1784623479197",
+      "kind": "preview",
+      "file": "preview-ede0cec98ed43b140051053b25cabe9a828471efc53ca5f6c64bc9395c395048.bin",
+      "bytes": 2516150,
+      "sha256": "014dae257fcab5e9958cada55f9c0b4cf6c160656a860e4b9c28a3cab71e9f37",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/1a62aa71-61a3-4a15-aeae-5b713ac27dd4/preview.png"
+    },
+    {
+      "id": "theme-1784623354660",
+      "kind": "preview",
+      "file": "preview-59561c03c18cae81b77c7b392aea6581be7b3bc7a75f33acf3187d077df10914.bin",
+      "bytes": 2690240,
+      "sha256": "32044e8692c0155b4b7c707c04ea18c8eb04728f9de2695beba5b437a8b4344d",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/f402d21c-73e9-4992-a0c0-a26dfd12c88d/preview.png"
+    },
+    {
+      "id": "theme-1784556133107",
+      "kind": "preview",
+      "file": "preview-9fe1736680137553d7a4c5625495668918295ffb0aa1377dd3425e59ee0e8691.bin",
+      "bytes": 1811649,
+      "sha256": "526a64d05b52f9342ad3e20ce21f8d795e88c763436a708f345e64ef2fe9cdae",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/0c37e47f-fbab-4190-947c-463da528c203/preview.png"
+    },
+    {
+      "id": "theme-1784555967287",
+      "kind": "preview",
+      "file": "preview-c2a7e5e6ad028f3d8ea94ae9831b5fea71568bd9e9f70a480a3a7cbc20983ad6.bin",
+      "bytes": 1858790,
+      "sha256": "8adf133a0d03275da7730c740b51383ddf0cbd5c39d7e1cdc2446cb9d7588c93",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/a8c2af7d-dfd8-47c1-b3e7-e9194d2e5a93/preview.png"
+    },
+    {
+      "id": "theme-1784549064978",
+      "kind": "preview",
+      "file": "preview-29f90549ba873be8bb4a8cba5c349f10df355ac57bd4ae0d56547a924f93a61a.bin",
+      "bytes": 2004024,
+      "sha256": "d1718668defa8b60ae834a68568958d59601f54e916d1ce74eefc9f8601213b1",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/f0b55b34-869e-4eb0-b575-cec4f83a4e37/preview.png"
+    },
+    {
+      "id": "theme-1784548919277",
+      "kind": "preview",
+      "file": "preview-98661fbe086172b943b64f6c2587e2f4dd6aea5ea7dee5e4602e042999e25ca6.bin",
+      "bytes": 1839637,
+      "sha256": "281fd2e64376e44107236541b8d0c737f46091198804e83c0aeab347d4012bfd",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/5e5ddbe6-877a-4f5c-b820-05e278a205a8/preview.png"
+    },
+    {
+      "id": "rosso-corsa-supercar",
+      "kind": "preview",
+      "file": "preview-e19681b18144592a4e266796ccf7db93e0fc78017e7d6b4488970f2789f05430.bin",
+      "bytes": 824856,
+      "sha256": "80bd1f13c4953268561267ef16e4fe2def2fd982abb7fc886fb9fb1c1d5b3910",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/cfdfcc82-97a1-41ce-828c-e5f8ddfe16ee/preview.png"
+    },
+    {
+      "id": "vedio-codex",
+      "kind": "preview",
+      "file": "preview-f86aa9637ff76453cf9d3b722c884caa5268058e9aa8b91130a07978aa78866e.bin",
+      "bytes": 1744070,
+      "sha256": "9e811bdf89863d8614579df727ae380d70dbce9cc2f67ea559eb8e1c36ad95e0",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/theme-submissions/d44a5fa6-9c45-4cf4-be32-847b686b8dd4/preview.png"
+    },
+    {
+      "id": "mountain-lake-road-codex",
+      "kind": "preview",
+      "file": "preview-a7be93eb6fc940804458b39ccc6456792728ec26650343537f5fdd86bc0c97c5.bin",
+      "bytes": 130761,
+      "sha256": "680a6300d663ae2a03ee11fed7f8fad5dcd6a0c56aabf8bcbcde30396a9a2c90",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/099be2bf-e6b0-4bf3-93db-3a82493d1128/preview.jpg"
+    },
+    {
+      "id": "dilraba-black-feather-codex",
+      "kind": "preview",
+      "file": "preview-dfef3bf90b15e5c6cc4dc8b233c0cfc6f26507be9859713f1637a53dbdd31281.bin",
+      "bytes": 402327,
+      "sha256": "979b417dc13a6495c5588585004d1b4ed67941a6c87e280f7a80c64ff95f7b4b",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/5ba03366-bcdd-4059-9adb-0d390e37c569/preview.jpg"
+    },
+    {
+      "id": "rose-dream-romance-codex",
+      "kind": "preview",
+      "file": "preview-b3a2ebb44781c9f3c9a4d7d153f79fb9e778ddd115df00b94e448b60962d2123.bin",
+      "bytes": 437113,
+      "sha256": "2d999e53a516d26f707fbe2bafa71454e7d9a3a032ee9599ce52ffc270aba363",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/7ed1baca-ee24-497b-a0bd-d0fdd1de4c65/preview.jpg"
+    },
+    {
+      "id": "wukong-crimson-dusk-codex",
+      "kind": "preview",
+      "file": "preview-86280e7c47d3537d369af3df07f006a0c420ea1b70ed8f4341cab9bb68d24a77.bin",
+      "bytes": 535933,
+      "sha256": "e32db3f732ad43aa9dce2054f5b6df369caa2a938a6a9b52489beb7247df82b3",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/b42a987d-6a25-4dcb-bfc3-f471a51c52ea/preview.jpg"
+    },
+    {
+      "id": "kung-fu-womens-football-codex",
+      "kind": "preview",
+      "file": "preview-537daee1869eae2d3746112589b9cc748440ec9cc946e11b49caa9549b545998.bin",
+      "bytes": 518300,
+      "sha256": "4e06591f8e474dd2a90c705b5b675973eb7d7902a38de2b427296ff8b9d166a2",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/72c7e204-743e-4791-afe2-713f5b99f397/preview.jpg"
+    },
+    {
+      "id": "argentina-spain-world-cup-codex",
+      "kind": "preview",
+      "file": "preview-695b2a0f7f6fe5910c518dafe7dcb6acb4e6bed6e66725817efdf2de331ccbe3.bin",
+      "bytes": 572903,
+      "sha256": "801b1fd42ec10f7e08dff87bca0a562c30928ed009f250ef311d253d0f6fac47",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/ba033b47-8408-4e4f-b9ce-10445767bf99/preview.jpg"
+    },
+    {
+      "id": "oxygen-not-included-codex",
+      "kind": "preview",
+      "file": "preview-543f2fc9d8196b580e754480f606c2f6207d3c4a5f04ee02119d22dd8e1570ad.bin",
+      "bytes": 246330,
+      "sha256": "f3c7bb1aacabd2b75bffd63bc19f35eb8ab98986f83b47654cef3bf0b7f544f1",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/92ad4f0d-0b6f-451a-8747-5ece10bff208/preview.jpg"
+    },
+    {
+      "id": "labubu-universe-codex",
+      "kind": "preview",
+      "file": "preview-e3961b5d8d10f2d6b924f1000fc9cfeb7cbfeb0dc92252356f779016988981ec.bin",
+      "bytes": 223978,
+      "sha256": "156d92ea910c272cb6b8787caaa17b19f6d39d8c0f00a9c4033f549911edb8f6",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/9e9b6e11-9906-4376-8fc3-6f1908e174dd/preview.jpg"
+    },
+    {
+      "id": "goblin-first-snow-codex",
+      "kind": "preview",
+      "file": "preview-6b5e52accc607eb6f592f8c92d5def8b76a82a6526a0ab0169c30275f84bd0c4.bin",
+      "bytes": 271019,
+      "sha256": "dc9722bd9671860d270821c54dba838a5934915db070eaed386881b2d7d70263",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/075e18ae-3559-40eb-b584-64c4f0cfd6b8/preview.jpg"
+    },
+    {
+      "id": "trump-maga-codex",
+      "kind": "preview",
+      "file": "preview-0520b91708194c083743341ee710e07083a6b07339073657974ac9495e9e653b.bin",
+      "bytes": 289476,
+      "sha256": "96299f068d72984d0b30dba8de20f0147a9f46f955d96875425777bae0a344de",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/761959dc-faed-47a8-ae37-2a10814eddf3/preview.jpg"
+    },
+    {
+      "id": "dario-amodei-rose-codex",
+      "kind": "preview",
+      "file": "preview-13b05fe75d651218ad08593df31f08e63ba4625997a3480263ba7168c375783c.bin",
+      "bytes": 199430,
+      "sha256": "7d37e4291334bbfc2b7c69c6f312c27350771f978639cb6707dc9ed7aa6ae3c9",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/2ead3d59-1bcd-438a-94aa-83e49a170a5a/preview.jpg"
+    },
+    {
+      "id": "crow-brother-workbuddy",
+      "kind": "preview",
+      "file": "preview-ac0a13bd570ec526cc46d6681c5f39faaf30704ba8ec653c8e22169c8556c447.bin",
+      "bytes": 223021,
+      "sha256": "d587504e2628a957dbb73bdac7031a9fa91da8a180085d6ef3d171384941cdc7",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/dd166209-1ac8-4fbf-9cd3-8527e930c9ef/preview.jpg"
+    },
+    {
+      "id": "rick-and-morty-multiverse-codex",
+      "kind": "preview",
+      "file": "preview-1722f49f5c458334a4e9d7bf86cd9376c8158b11e511403613ddcdabe2830d5d.bin",
+      "bytes": 109035,
+      "sha256": "4a2d1465b37351b92ca60d221c98202903e9e377088a26ebdeac65dbb7a4a35b",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/fbf8828d-a38d-4fa9-a595-938c82dcca7b/preview.jpg"
+    },
+    {
+      "id": "fiona-sit-exclusive-codex",
+      "kind": "preview",
+      "file": "preview-f5a0b74db61802b14a98fb4cabf1dd39794a4f444bf396187078f388ac0224bf.bin",
+      "bytes": 102719,
+      "sha256": "aa09e62db9d98ab7a924a0f5a100a11e5834ca43f3d2778a34c761caa582b3fb",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/061ecbaa-ca98-493b-b790-7477397ab446/preview.jpg"
+    },
+    {
+      "id": "lazy-cow-pasture-codex",
+      "kind": "preview",
+      "file": "preview-005bbfa9f9a31b43b55179683827a8e02c80b8f7ccb502ff40bf1516a11d6af7.bin",
+      "bytes": 66279,
+      "sha256": "3451f297e3411974c38a593cdafc887a117d692b37c962e871ee2cfd7ffc827d",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/49e38f86-b97f-489e-804b-d81907e3222b/preview.jpg"
+    },
+    {
+      "id": "openai-red-horizon-codex",
+      "kind": "preview",
+      "file": "preview-2c9da7bfec309df2c3398a032875600dee93a9b11097802a30747b2d024b11ec.bin",
+      "bytes": 92531,
+      "sha256": "f9bc2b75d2d5f873289e247b5250219a3f283cf9dd5f1042a217a525d53ac1e0",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/06a48637-fa54-4646-b161-20749f5f3b90/preview.jpg"
+    },
+    {
+      "id": "dilraba-codex",
+      "kind": "preview",
+      "file": "preview-e64a1f32fcbfe450fbdc83c4dc8418760c2f621d7f58f967f6c3a0948db4d6ec.bin",
+      "bytes": 209332,
+      "sha256": "ac9e1998df93a10bf131055be242609be476818b1f07be1bbd34abd5fb4b6db7",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/3461fe16-df80-4ccc-9ff2-2585c6ccdca5/preview.jpg"
+    },
+    {
+      "id": "enfp-inspiration-codex",
+      "kind": "preview",
+      "file": "preview-b2bc2ee8e3cff96a49e515012bb0ccfe2633dca75f54415ddea8d79cf6b109ae.bin",
+      "bytes": 179970,
+      "sha256": "f97121a1c61861c909ab239b65b2f9a161d14f2074381c73901b4a0534436055",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/1d7eac05-d17e-4e8d-9932-90fc276c2f1c/preview.jpg"
+    },
+    {
+      "id": "jackson-yee-codex",
+      "kind": "preview",
+      "file": "preview-b3db8abd17f100eec58b5a39cc04b1e109b95c9bffd22c3d6cba2300cc31269a.bin",
+      "bytes": 130498,
+      "sha256": "c439f9e5ae5f51ee199def1166e0e1c0e95e0dd3bc131128218069288bc4078e",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/28bf7272-8607-4ea9-9f0b-fcb0c226aabb/preview.jpg"
+    },
+    {
+      "id": "kun-exclusive-codex",
+      "kind": "preview",
+      "file": "preview-a09b8586bb59f1aab5fabe8628087fb51798f0f1ca91f7d3538fbc7ad8c4129d.bin",
+      "bytes": 171275,
+      "sha256": "ae89e9d99653205cd18811c7507a56cda8286bcee0d3b5cb3d46325767883961",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/7681cabb-e791-40e6-8895-4a18d3e04990/preview.jpg"
+    },
+    {
+      "id": "yujie-sweet-code",
+      "kind": "preview",
+      "file": "preview-486bdb52517daa2610f557e767cbecb734bdaff64e3962d4dfa627f93b7425c9.bin",
+      "bytes": 168567,
+      "sha256": "c24800f68d316582f9f8a94093513b1f85286b7b63fbdebdd26faa26c4bbd17d",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/f41b51a3-0179-430c-82de-b4e4eea58aba/preview.jpg"
+    },
+    {
+      "id": "god-of-wealth-codex",
+      "kind": "preview",
+      "file": "preview-89ae2517f12684dc95063e97cab07394bfdfe3d78f57e6d1b31a4a7176502ea5.bin",
+      "bytes": 192985,
+      "sha256": "ae5fb747cde8e2cdf9426eb005f14a55b17cf2d1d00c8c4e3e12ba50c43a20fd",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/2e23330a-1f52-4b02-a4cc-8f778d8ca0ed/preview.jpg"
+    },
+    {
+      "id": "aigclink-anime-codex",
+      "kind": "preview",
+      "file": "preview-64d771d3f5c36a280cdf949ba7abca676868b85ece85291e3de81e39846a5680.bin",
+      "bytes": 285716,
+      "sha256": "89611e6ea0b907df3799e8d5a26a4cf4462dc9a58959a9c65dc11b4b09f9d33d",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/43182c33-57a2-40a8-a116-93e04420ff6e/preview.jpg"
+    },
+    {
+      "id": "suu-blue-impact",
+      "kind": "preview",
+      "file": "preview-b2c5485eb97d08cb644b478afa2ddcaf81de84964940bb767a0e4fadc9233bc5.bin",
+      "bytes": 221652,
+      "sha256": "4f4763703c2d07a91d8745c896c5ed1fcf18b130510f0daa7aa06496b8c46cdd",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/5e381fe8-a2e4-4424-b1fb-1a5fe6453744/preview.jpg"
+    },
+    {
+      "id": "okk-skin",
+      "kind": "preview",
+      "file": "preview-c549f8dd84b7ab985efd006601c9f71390ecd8f87bc6eedb7240e192d8896f39.bin",
+      "bytes": 83613,
+      "sha256": "448e1ef8f6ce6a9034191e0bf7d8f7c9f8a91fdb6511815dc07e194fbb0e0314",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/a44920cf-d509-48b9-a1ba-48720b3ad251/preview.jpg"
+    },
+    {
+      "id": "black-myth-codex",
+      "kind": "preview",
+      "file": "preview-c82ba4a4c5b389a0ee8f1423c91751d192fc7252ed554674423012289e05a618.bin",
+      "bytes": 436552,
+      "sha256": "542a12faf0b70c4a8d1c6ca3271f07b5320e4bb38ec5e86476f09444b8389d9b",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/2a3b5251-b4a5-41e8-a88f-4c00e710a414/preview.jpg"
+    },
+    {
+      "id": "world-cup-2026-codex",
+      "kind": "preview",
+      "file": "preview-eb6701f3b1ffb77d3d2fd7fa8e334cf07e45caff32a2002ede6b97a697b6731d.bin",
+      "bytes": 360121,
+      "sha256": "ec6799344d23d1f5d5371aef85f6efb626b51dd29a991d980e9ac962a435a213",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/44d2e76d-4f87-4bcf-b3ea-b84da79088d6/preview.jpg"
+    },
+    {
+      "id": "miku-codex",
+      "kind": "preview",
+      "file": "preview-9ffc0497637a60841ce1be81d9e575b0ddf471d7a6acfcdc2a09472b5d34264c.bin",
+      "bytes": 193923,
+      "sha256": "cf6acbe6061dece621718b06328ca7d3f2ee89a04fbca0f8f6a13ae119c8d9c0",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/84b49175-5e16-4fbc-83fc-88a9560db4d7/preview.jpg"
+    },
+    {
+      "id": "arina-hashimoto-codex",
+      "kind": "preview",
+      "file": "preview-afcb25c700ac59781f0cfeca3cc1c92389c379fa879dca39cfc7a8ee730c5526.bin",
+      "bytes": 292193,
+      "sha256": "c2a05d311b73b7a27fd308abd349cae74836ea6d6011d4a4d3b461a79e64bab1",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/9d09b931-1fa5-4280-8910-9d343e5824ea/preview.jpg"
+    },
+    {
+      "id": "jay-chou-codex-studio",
+      "kind": "preview",
+      "file": "preview-74027df381e61eae499b994ab0686a9301a9c145cc13fa58ed510d6309614585.bin",
+      "bytes": 276796,
+      "sha256": "2e382b1b09e05793263a94aaf26a4ce24d3dccd7e671afc833f24abd502ccae5",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/78a056da-c819-4ab5-b774-8522a32c37ac/preview.jpg"
+    },
+    {
+      "id": "qq-2007-codex",
+      "kind": "preview",
+      "file": "preview-ca7217636f73a99ed4345076bf719880a60f3f1fe284fa1030efff66337b1afe.bin",
+      "bytes": 264338,
+      "sha256": "16484270c8f525bda8bd20f83d3f614af11151988fbda794a01a56720581daae",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/ab1bcc55-538e-484f-8d11-67fb662c376c/preview.jpg"
+    },
+    {
+      "id": "kongfu-football",
+      "kind": "preview",
+      "file": "preview-6adb4cdf1e13fd712827ae1ea7d2de2a456cba622a65fe6f02df73f4039e4a46.bin",
+      "bytes": 263565,
+      "sha256": "cf029760d6f6c644fd35242c1b8d44fedd4feb08187084cd2f0dc5c809badf73",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/2272f862-b8a7-4d1d-9e19-6c34de44a139/preview.jpg"
+    },
+    {
+      "id": "mythic-guardian-noir",
+      "kind": "preview",
+      "file": "preview-1b4566532f22ba2aa3a6f252992e2d4d90959daf6558ea16e43ae021a9ea9767.bin",
+      "bytes": 1944789,
+      "sha256": "2c7439416e7856436b3a27bc5f1b4bec0bc66e14031dbdd90dc2b6feda2a1ceb",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/990a044a-e6a0-4911-b524-44dbffd656b3/preview.png"
+    },
+    {
+      "id": "theme-1784277939575",
+      "kind": "preview",
+      "file": "preview-dd503b98419bad35b8afa42d499c5e294e2ff25e5e591f6dd6940dd54b39981f.bin",
+      "bytes": 2410107,
+      "sha256": "58b51ffa02f42aabf1991edcda295fad4a2f1163444e57b6886fb2396e949e73",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/skin-submissions/5f91b4ce-606f-4f6a-82a0-12d4c38c2794/preview.png"
+    },
+    {
+      "id": "theme-1784267604531",
+      "kind": "preview",
+      "file": "preview-fc3360c59f2477d482ee36cb3b6d792a747309491d23b92796fa9c58836a3cdd.bin",
+      "bytes": 1036951,
+      "sha256": "7164d99a663dba23783ebe9456e8c15ce37db1dc3da6431e87039f8b12460beb",
+      "sourceUrl": "https://cdn.codexthemes.ai/uploads/0515719d47623dd75e0f6c2d69dd8d2c.png"
+    },
+    {
+      "id": "miku",
+      "kind": "package",
+      "file": "package-9ea6cc1128871063c0ebdf93fc39e66a932068b4f2722bb39ecca45db6a26a9e.codex-theme",
+      "sha256": "47507b3f9c9dc81dc8a5a13150392daa9bbd50289df94d67dfe647df2a9f3c89",
+      "bytes": 106166,
+      "sourceUrl": "https://codexthemes.ai/api/themes/miku/download"
+    },
+    {
+      "id": "trump-maga-presidential",
+      "kind": "package",
+      "file": "package-cb267681508779fa6d03c1c802b1746d9451f3fade60c081ac3a15c242492072.codex-theme",
+      "sha256": "013ff85e1e2a1c91122905b5384de7927eea35f4de48466dd034cf4d963799d7",
+      "bytes": 2755559,
+      "sourceUrl": "https://codexthemes.ai/api/themes/trump-maga-presidential/download"
+    },
+    {
+      "id": "theme-1786780354717",
+      "kind": "package",
+      "file": "package-1946aabd7b16001999e38f64e9b035c2241e069f03b4b3746468f92bf6d788f0.codex-theme",
+      "sha256": "921d9e9705e5f4cc2135ebc4a041c9a2441224d7094ef1929405c463d9694842",
+      "bytes": 7290597,
+      "sourceUrl": "https://codexthemes.ai/api/themes/theme-1786780354717/download"
+    },
+    {
+      "id": "gandum",
+      "kind": "package",
+      "file": "package-7b4d1c4f7254131af0ae065418ea40c1e026d828cb8317c11ef8c01c2de6cc71.codex-theme",
+      "sha256": "7f4bfd9ecbfaae1089d7d2fece66a7499e0c19135e99af1d66b49a7cbd24122c",
+      "bytes": 2190623,
+      "sourceUrl": "https://codexthemes.ai/api/themes/gandum/download"
+    }
+  ],
+  "unavailablePackages": [
+    {
+      "id": "theme-1786780354717",
+      "name": "波奇酱",
+      "kind": "theme",
+      "url": "https://codexthemes.ai/themes/theme-1786780354717",
+      "reason": "Not agent-installable (archive package). Share https://codexthemes.ai/themes/theme-1786780354717 with the user so they can sign in, download the archive, and install it manually."
+    },
+    {
+      "id": "miku",
+      "name": "miku水墨风",
+      "kind": "theme",
+      "url": "https://codexthemes.ai/themes/miku",
+      "reason": "Not agent-installable (archive package). Share https://codexthemes.ai/themes/miku with the user so they can sign in, download the archive, and install it manually."
+    },
+    {
+      "id": "gandum",
+      "name": "gandum",
+      "kind": "theme",
+      "url": "https://codexthemes.ai/themes/gandum",
+      "reason": "Not agent-installable (archive package). Share https://codexthemes.ai/themes/gandum with the user so they can sign in, download the archive, and install it manually."
+    },
+    {
+      "id": "trump-maga-presidential",
+      "name": "trump-maga-presidential",
+      "kind": "theme",
+      "url": "https://codexthemes.ai/themes/trump-maga-presidential",
+      "reason": "Not agent-installable (archive package). Share https://codexthemes.ai/themes/trump-maga-presidential with the user so they can sign in, download the archive, and install it manually."
+    },
+    {
+      "id": "cyber-earth",
+      "name": "Cyber Earth",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/cyber-earth",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/cyber-earth, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "xuxuk-02b6",
+      "name": "xuxuk官网",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/xuxuk-02b6",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/xuxuk-02b6, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "xuxuk",
+      "name": "xuxuk官网",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/xuxuk",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/xuxuk, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "diana-codex-theme",
+      "name": "Diana Codex Theme",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/diana-codex-theme",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/diana-codex-theme, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "curry0",
+      "name": "curry0",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/curry0",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/curry0, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "curry",
+      "name": "curry",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/curry",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/curry, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "theme-1784641228442",
+      "name": "蓝色妖姬",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/theme-1784641228442",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/theme-1784641228442, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "theme-1784623712453",
+      "name": "真香",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/theme-1784623712453",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/theme-1784623712453, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "theme-1784623590070",
+      "name": "鸡汤来喽",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/theme-1784623590070",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/theme-1784623590070, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "theme-1784623479197",
+      "name": "谭谈交通",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/theme-1784623479197",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/theme-1784623479197, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "theme-1784623354660",
+      "name": "退钱哥",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/theme-1784623354660",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/theme-1784623354660, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "theme-1784556133107",
+      "name": "只因你太美",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/theme-1784556133107",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/theme-1784556133107, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "theme-1784555967287",
+      "name": "加油，奥利给",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/theme-1784555967287",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/theme-1784555967287, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "theme-1784549064978",
+      "name": "在杰难逃",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/theme-1784549064978",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/theme-1784549064978, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "theme-1784548919277",
+      "name": "嘎子偷狗",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/theme-1784548919277",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/theme-1784548919277, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "rosso-corsa-supercar",
+      "name": "Rosso Corsa Supercar for Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/rosso-corsa-supercar",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/rosso-corsa-supercar, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "vedio-codex",
+      "name": "vedio-codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/vedio-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/vedio-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "mountain-lake-road-codex",
+      "name": "Mountain Lake Road Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/mountain-lake-road-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/mountain-lake-road-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "dilraba-black-feather-codex",
+      "name": "Dilraba Black Feather Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/dilraba-black-feather-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/dilraba-black-feather-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "rose-dream-romance-codex",
+      "name": "Rose Dream Romance Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/rose-dream-romance-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/rose-dream-romance-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "wukong-crimson-dusk-codex",
+      "name": "Wukong Crimson Dusk Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/wukong-crimson-dusk-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/wukong-crimson-dusk-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "kung-fu-womens-football-codex",
+      "name": "Kung Fu Women’s Football Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/kung-fu-womens-football-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/kung-fu-womens-football-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "argentina-spain-world-cup-codex",
+      "name": "Argentina vs Spain World Cup Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/argentina-spain-world-cup-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/argentina-spain-world-cup-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "oxygen-not-included-codex",
+      "name": "Oxygen Not Included Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/oxygen-not-included-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/oxygen-not-included-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "labubu-universe-codex",
+      "name": "LABUBU Universe Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/labubu-universe-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/labubu-universe-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "goblin-first-snow-codex",
+      "name": "Goblin First Snow Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/goblin-first-snow-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/goblin-first-snow-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "trump-maga-codex",
+      "name": "Trump MAGA Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/trump-maga-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/trump-maga-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "dario-amodei-rose-codex",
+      "name": "Dario Amodei Rose Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/dario-amodei-rose-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/dario-amodei-rose-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "crow-brother-workbuddy",
+      "name": "Crow Brother WorkBuddy",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/crow-brother-workbuddy",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/crow-brother-workbuddy, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "rick-and-morty-multiverse-codex",
+      "name": "Rick and Morty Multiverse Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/rick-and-morty-multiverse-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/rick-and-morty-multiverse-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "fiona-sit-exclusive-codex",
+      "name": "Fiona Sit Exclusive Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/fiona-sit-exclusive-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/fiona-sit-exclusive-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "lazy-cow-pasture-codex",
+      "name": "Lazy Cow Pasture Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/lazy-cow-pasture-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/lazy-cow-pasture-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "openai-red-horizon-codex",
+      "name": "OpenAI Red Horizon Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/openai-red-horizon-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/openai-red-horizon-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "dilraba-codex",
+      "name": "Dilraba Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/dilraba-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/dilraba-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "enfp-inspiration-codex",
+      "name": "ENFP Inspiration Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/enfp-inspiration-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/enfp-inspiration-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "jackson-yee-codex",
+      "name": "Jackson Yee Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/jackson-yee-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/jackson-yee-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "kun-exclusive-codex",
+      "name": "KUN Exclusive Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/kun-exclusive-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/kun-exclusive-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "yujie-sweet-code",
+      "name": "Yujie Sweet Code",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/yujie-sweet-code",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/yujie-sweet-code, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "god-of-wealth-codex",
+      "name": "God of Wealth Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/god-of-wealth-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/god-of-wealth-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "aigclink-anime-codex",
+      "name": "AIGCLINK Anime Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/aigclink-anime-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/aigclink-anime-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "suu-blue-impact",
+      "name": "SUU Blue Impact",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/suu-blue-impact",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/suu-blue-impact, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "okk-skin",
+      "name": "OKK Skin",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/okk-skin",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/okk-skin, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "black-myth-codex",
+      "name": "Black Myth Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/black-myth-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/black-myth-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "world-cup-2026-codex",
+      "name": "World Cup 2026 Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/world-cup-2026-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/world-cup-2026-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "miku-codex",
+      "name": "Miku Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/miku-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/miku-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "arina-hashimoto-codex",
+      "name": "Arina Hashimoto Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/arina-hashimoto-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/arina-hashimoto-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "jay-chou-codex-studio",
+      "name": "Jay Chou Codex Studio",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/jay-chou-codex-studio",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/jay-chou-codex-studio, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "qq-2007-codex",
+      "name": "QQ 2007 Codex",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/qq-2007-codex",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/qq-2007-codex, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "kongfu-football",
+      "name": "Kongfu Football",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/kongfu-football",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/kongfu-football, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "mythic-guardian-noir",
+      "name": "Mythic Guardian Noir",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/mythic-guardian-noir",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/mythic-guardian-noir, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "theme-1784277939575",
+      "name": "龙珠",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/theme-1784277939575",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/theme-1784277939575, and offer to recreate this look with the codex-theme-creator skill."
+    },
+    {
+      "id": "theme-1784267604531",
+      "name": "黑神话悟空",
+      "kind": "skin",
+      "url": "https://codexthemes.ai/skins/theme-1784267604531",
+      "reason": "Design reference only — no downloadable package. Share https://codexthemes.ai/skins/theme-1784267604531, and offer to recreate this look with the codex-theme-creator skill."
+    }
+  ]
+}

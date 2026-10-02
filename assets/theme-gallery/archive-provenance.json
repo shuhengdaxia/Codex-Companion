@@ -1,0 +1,38 @@
+[
+  {
+    "id": "miku",
+    "archive": "miku.zip",
+    "archiveSha256": "ae482df03a43daff8a5a5c9af977f0806a89f46ae54b88d5acb05b10debc4614",
+    "packageFile": "package-9ea6cc1128871063c0ebdf93fc39e66a932068b4f2722bb39ecca45db6a26a9e.codex-theme",
+    "packageSha256": "47507b3f9c9dc81dc8a5a13150392daa9bbd50289df94d67dfe647df2a9f3c89",
+    "adaptation": "Original CSS/art with catalog selector and modern host stacking context",
+    "scriptsExecuted": false
+  },
+  {
+    "id": "trump-maga-presidential",
+    "archive": "trump-maga-presidential.zip",
+    "archiveSha256": "5ec181011771c57271722c56650abfb03752417b02c9756795d0a34f85122838",
+    "packageFile": "package-cb267681508779fa6d03c1c802b1746d9451f3fade60c081ac3a15c242492072.codex-theme",
+    "packageSha256": "013ff85e1e2a1c91122905b5384de7927eea35f4de48466dd034cf4d963799d7",
+    "adaptation": "Original CSS/art with catalog selector and modern host stacking context",
+    "scriptsExecuted": false
+  },
+  {
+    "id": "theme-1786780354717",
+    "archive": "theme-1786780354717.zip",
+    "archiveSha256": "fddedb84c8577ded82d8c8ba992293d4ae26f46da65901706415df3f0c0778e3",
+    "packageFile": "package-1946aabd7b16001999e38f64e9b035c2241e069f03b4b3746468f92bf6d788f0.codex-theme",
+    "packageSha256": "921d9e9705e5f4cc2135ebc4a041c9a2441224d7094ef1929405c463d9694842",
+    "adaptation": "Dream Skin CSS/art with reviewed host-owned DOM adapter",
+    "scriptsExecuted": false
+  },
+  {
+    "id": "gandum",
+    "archive": "gandum.zip",
+    "archiveSha256": "5378458268da8602c538afe8065fcf6fc18de88a930764004aba2a0829a2aed4",
+    "packageFile": "package-7b4d1c4f7254131af0ae065418ea40c1e026d828cb8317c11ef8c01c2de6cc71.codex-theme",
+    "packageSha256": "7f4bfd9ecbfaae1089d7d2fece66a7499e0c19135e99af1d66b49a7cbd24122c",
+    "adaptation": "Dream Skin CSS/art with reviewed host-owned DOM adapter",
+    "scriptsExecuted": false
+  }
+]
